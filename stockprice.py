@@ -44,7 +44,7 @@ if __name__ == '__main__':
     argparser.add_argument('-p', '--path', type=str, default=result_path,
                            help='Path to store the data (default: {0})'.format(result_path))
     args = argparser.parse_args()
-    get_price_data(sym_list_file_name='SP100List.csv',
+    get_price_data(sym_list_file_name='./data/SP100List.csv',
                    start_time=int2date(args.start),
                    end_time=int2date(args.end),
                    result_dir=result_path)

@@ -1,0 +1,100 @@
+Apple Inc.    
+AbbVie Inc.    
+Abbott Laboratories    
+Accenture plc    
+American International Group Inc.  
+Allstate Corp.    
+Amgen Inc.    
+Amazon.com     
+Apache Corp.    
+Anadarko Petroleum Corporation   
+American Express Inc.   
+Boeing Co.    
+Bank of America Corp  
+Baxter International Inc   
+Biogen Idec    
+Bank of New York  
+Bristol-Myers Squibb    
+Berkshire Hathaway    
+Citigroup Inc    
+Caterpillar Inc    
+Colgate-Palmolive Co.    
+Comcast Corporation    
+Capital One Financial Corp.  
+ConocoPhillips     
+Costco     
+Cisco Systems    
+CVS Caremark    
+Chevron     
+DuPont     
+The Walt Disney Company  
+Dow Chemical    
+Devon Energy    
+eBay Inc.    
+EMC Corporation    
+Emerson Electric Co.   
+Exelon     
+Ford Motor    
+Facebook     
+Freeport-McMoran     
+FedEx     
+Twenty-First Century Fox, Inc  
+General Dynamics    
+General Electric Co.   
+Gilead Sciences    
+General Motors    
+Google Inc.    
+Goldman Sachs    
+Halliburton     
+Home Depot    
+Honeywell     
+Hewlett Packard Co   
+International Business Machines   
+Intel Corporation    
+Johnson & Johnson Inc  
+JP Morgan Chase & Co 
+The Coca-Cola Company   
+Eli Lilly and Company  
+Lockheed-Martin     
+Lowe's     
+Mastercard Inc    
+McDonald's Corp    
+Mondelēz International    
+Medtronic Inc.    
+Metlife Inc.    
+3M Company    
+Altria Group    
+Monsanto     
+Merck & Co.   
+Morgan Stanley    
+Microsoft     
+Nike     
+National Oilwell Varco   
+Norfolk Southern Corp   
+Oracle Corporation    
+Occidental Petroleum Corp.   
+Pepsico Inc.    
+Pfizer Inc    
+Procter & Gamble Co  
+Phillip Morris International   
+Qualcomm Inc.    
+Raytheon Co (NEW)   
+Starbucks Corporation    
+Schlumberger     
+Southern Company    
+Simon Property Group, Inc.  
+AT&T Inc    
+Target Corp.    
+Time Warner Inc.   
+Texas Instruments    
+UnitedHealth Group Inc.   
+Union Pacific Corp.   
+United Parcel Service Inc  
+US Bancorp    
+United Technologies Corp   
+Visa Inc.    
+Verizon Communications Inc   
+Walgreens Boots Alliance   
+Wells Fargo    
+Wal-Mart     
+Exxon Mobil Corp
