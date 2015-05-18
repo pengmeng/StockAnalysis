@@ -30,7 +30,8 @@ def dump(resultpath, filename, lines):
 
 
 def main(filename, resultpath):
-    mongo = pymongo.MongoClient('localhost', 27017)['pycrawler']['wsj']
+    client = pymongo.MongoClient('localhost', 27017)
+    mongo = client['pycrawler']['wsj']
     keywords = loadkeywords(filename)
     for each in keywords:
         print('Processing '+each)
@@ -42,6 +43,7 @@ def main(filename, resultpath):
             print('{0} results.'.format(len(result)))
             dump(resultpath, each, result)
         print(each+' finished')
+    client.close()
 
 if __name__ == '__main__':
     result_path = './data/keyword/'

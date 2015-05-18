@@ -37,7 +37,7 @@ if __name__ == '__main__':
     now = int(time.strftime("%Y%m%d", time.localtime(time.time())))
     result_path = './data/allprices'
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('-s', '--start', type=int, default=20000101,
+    argparser.add_argument('-s', '--start', type=int, default=20050101,
                            help='The start date (default: 20000101)')
     argparser.add_argument('-e', '--end', type=int, default=now,
                            help='The end date (default: {0})'.format(now))
