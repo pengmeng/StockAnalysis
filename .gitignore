@@ -11,9 +11,7 @@ __pycache__/
 .idea/
 log/
 tmp/
-data/
 *.json
-*.txt
 *.html
 
 # C extensions
