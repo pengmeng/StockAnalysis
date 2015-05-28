@@ -15,7 +15,7 @@ def date2num(date):
     return ((2000 + int(parts[2])) * 100 + int(parts[0])) * 100 + int(parts[1])
 
 
-def loadkeywords(filename):
+def loadbyline(filename):
     result = []
     if not os.path.exists(filename):
         print('{0} not found'.format(filename))

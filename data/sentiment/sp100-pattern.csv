@@ -1,0 +1,1001 @@
+title,polarity,subjectivity,classification
+At Apple's Grand Central Store, iPhones Aren't the Only Draw,0.166666666667,0.75,pos
+Video: Apple Moves into Television,0.0,0.0,neu
+Apple Moves Forward With TV Plans,0.0,0.0,neu
+Apple Softens Stance to Lure Mobile Ads,0.0,0.0,neu
+App Developers Skirt Apple's Limits With Work-Arounds,0.0,0.0,neu
+The Week Ahead: Apple-HTC Smartphone Suit Moves Toward Ruling in U.S.,0.0,0.0,neu
+Top Stories of 2011: All Apple All the Time,0.5,0.5,pos
+Android Faces Setback in iPhone Battle,0.0,0.0,neu
+Judge Rejects Apple Request to Ban Galaxy Sales in U.S.,0.0,0.0,neu
+Steve Jobs Statue Unveiled in Budapest,0.0,0.0,neu
+Shire Profit Surges Thanks to AbbVie Breakup Fee,0.2,0.2,neu
+Amgen Biosimilar Rheumatoid Arthritis Therapy Shows Positive Results,0.227272727273,0.545454545455,pos
+Stocks to Watch: Office Depot, General Motors, Ralph Lauren,0.05,0.5,pos
+Gilead Sciences Down on Discounting News,-0.155555555556,0.288888888889,neu
+Merck Sales Fall on Stronger Dollar, Patent Expirations,0.0,0.0,neu
+Gilead Sciences Earnings: What to Watch,0.0,0.0,neu
+Hepatitis Drugs Lift Gilead Sciences's Results,0.0,0.0,neu
+Mylan to Distribute Gilead's Hepatitis C Drugs in India,0.0,0.0,neu
+Pfizer to Buy Hospira for $16 Billion,0.0,0.0,neu
+Paulson's Fund Adds to Its Energy Holdings,0.0,0.0,neu
+Abbott Laboratories, Intel: Money Flow Leaders (ABT, INTC),0.0,0.0,neu
+Abbott to Pay $184 Million In Tricor Suits,0.0,0.0,neu
+FDA Tests Find Melamine Traces in Baby Formula,0.0,0.0,neu
+FDA to Allow Trace Levels of Melamine in Baby Formula,0.0,0.0,neu
+Investors Lick Wounds From Dividend Cuts,0.0,0.0,neu
+Drug Firms Target Newly Rich Abroad,0.375,0.75,pos
+Medtronics Posts Lower Profit,0.0,0.0,neu
+Abbott Posts 34% Rise in Net On Humira's Strong Growth,0.216666666667,0.366666666667,neu
+Abbott's Drug-Coated Stent Is Approved,0.0,0.0,neu
+Traders' Moves Show Hopes For Rebound in Drug Stocks,0.0,0.0,neu
+Consultant LetsClients Use 'Gut'To Set Final Fee,0.0,1.0,neu
+Capgemini Alters U.S. Plans,0.0,0.0,neu
+Next Up on Fox: AdsThat Can Change Pitch,0.0,0.0,neu
+Accenture Hires New DirectorFor Global Outsourcing Unit,0.0681818181818,0.227272727273,neu
+Big Deals Are Back,0.0,0.05,neu
+SGX's Profit Nearly Triples,0.1,0.4,neu
+BT Grants $127 Million ExtensionTo Accenture's Training Contract,0.0,0.0,neu
+China UndertakesFinancial Overhaul,0.0,0.0,neu
+Mining Giants Are Forced to Lessen Global Ambitions,-0.15,0.1,neu
+Dated and Confused,-0.4,0.7,neg
+Stock Pickers OfferBest Bets for 2005,0.0,0.0,neu
+Shell, Bechtel SetShortlist of BuyersFor Power Venture,0.0,0.0,neu
+The Case for Boredom,0.0,0.0,neu
+Morgan Mourns,0.0,0.0,neu
+Americans DonateIn Ways Old and NewTo Disaster's Victims,0.1,0.2,neu
+UPS Restructures Airbus Plane Order,0.0,0.0,neu
+Tax Cut, Shareholder PressureStoke Surge in Stock Dividends,0.0,0.0,neu
+Firms Begin to Offer EmployeesInsurance Against Identity Theft,0.0,0.0,neu
+AIG Boosts Dividend Nearly 67%,0.1,0.4,neu
+Accidents Rise in Steel Sector,Sparking Closer Look at Safety,0.0,0.0,neu
+Allstate Launches Roadside Assistance With a Twist,0.0,0.0,neu
+CEO Council Members,0.0,0.0,neu
+How to Create Sustainable Jobs: WSJ CEO Council Recommendations,0.0,0.0,neu
+Options Report: Bears Unswayed by Sony and Sherwin-Williams Gains,0.0,0.0,neu
+Sonnenschein, Denton Wilde to Merge,0.0,0.0,neu
+Insurers Are in Better Shape To Handle Storm Season,0.5,0.5,pos
+Noted . . .,0.0,0.0,neu
+Housing Boom's Dark Side,-0.15,0.4,neu
+Insuring a Teen Driver for Less,-0.0833333333333,0.0333333333333,neu
+The Gulf Coast, Still Wrecked,Grapples With Insurance Suits,0.0,0.0,neu
+Amgen Curbs Its Projection for Revenue,0.0,0.0,neu
+Companies Seek Shareholder Input on Pay Practices,0.0,0.0,neu
+Abbott Profit Rises, but Humira Falls Short,0.0,0.3,neu
+U.S. Drug Market Faces Down Year,-0.155555555556,0.288888888889,neu
+Wyeth's Flat Earnings Top Expectations as Lower Costs Offset Weak Sales,0.0333333333333,0.416666666667,neu
+Amgen's Outlook Brightens,0.0,0.0,neu
+Amgen Shows Little Growth,-0.1875,0.5,neg
+Amgen's Enbrel Records Subpoenaed in Inquiry,0.0,0.0,neu
+FDA Reviews New Amgen, J&J Data,0.136363636364,0.454545454545,neu
+Noted ...,0.0,0.0,neu
+What Carl Bernstein Told Bob Woodward About Jeff Bezos Buying the Washington Post,0.0,0.0,neu
+Amazon.com Set Move Lower,0.0,0.0,neu
+Mark Zuckerberg's Book Club Sets Sales Fire Under 'The End of Power',0.0,0.0,neu
+What Does It Cost Amazon.com to Go Dark?,-0.15,0.4,neu
+Netflix vs. Amazon.com: Streaming Service Showdown?,0.0,0.0,neu
+Video: Target's New Look: A Bit Like Amazon.com,0.136363636364,0.454545454545,neu
+7 Movies to Stream for Any Stage of Romance,0.0,0.0,neu
+Video: Can Flipkart.com Be the Amazon.com of India?,0.0,0.0,neu
+After Leaving Amazon, Laurence Kirshbaum Joins Waxman Leavell Literary Agency,0.1,0.1,neu
+Will Amazon's Drones Really Deliver? (Cartoon),0.2,0.2,neu
+Unocal Becomes a Hot Property,0.25,0.85,pos
+Court's Big Finish,0.0,0.1,neu
+Selling Green in Bush Backyard,-0.2,0.3,neu
+Corrections & Amplifications,0.0,0.0,neu
+Nasdaq Gains Little in NYSE Fight,-0.1875,0.5,neg
+White House May Tap Oil Reserves,0.0,0.0,neu
+Canada Regulators Approve Export Permits for LNG Proposals,0.0,0.0,neu
+An Icy Wind Wreaks Havoc on Texas Oil Fields,-0.1,0.1,neu
+Cold Snap Crimps Texas Oil Output,-0.6,1.0,neg
+Grammy Nominations 2014: Jay Z Leads Field (Complete List),0.1,0.4,neu
+CEOs See Some Light After a Dismal 2009,0.4,0.7,pos
+Gulf Oil Spill Draws Criminal Probe,-0.4,0.55,neg
+Oil News Roundup,0.0,0.0,neu
+Tullow: Ghana Test Fails to Find Oil,-0.5,0.3,neu
+A Smidgeon of Good News for Ailing BP,0.7,0.6,pos
+Anadarko, Kerr-McGee Statements,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Warren Buffett, Unplugged,0.0,0.0,neu
+Credit-Card Firms Go for Small,-0.25,0.4,neu
+Reborn AT&T MakesA Subdued Comeback,0.0,0.0,neu
+'One Throat to Choke',0.0,0.0,neu
+TV On-DemandMay Make AdsMore Targeted,0.0,0.0,neu
+Moving Ahead ... but Slowly,-0.3,0.4,neu
+Who's News Briefs,0.0,0.0,neu
+Serena SoftwareTo Be AcquiredFor $1.2 Billion,0.0,0.0,neu
+Employer, State Support StallsFor Mothers Who Nurse at Work,0.0,0.0,neu
+In Year of Disasters,Experts Bring OrderTo Chaos of Relief,0.0,0.0,neu
+Bet on Huge Plane Trips Up Airbus,0.4,0.9,pos
+Piloting Boeing's New Course,0.136363636364,0.454545454545,neu
+Boeing to Record Up to $1.1 BillionIn Charges on Jet Delays, U.S. Pact,0.0,0.0,neu
+Can Boeing and Lockheed Work Together?,0.0,0.0,neu
+FAA Ruling on Long-Haul RoutesWould Boost Boeing's Designs,0.0,0.0,neu
+Analysts: Airbus Delays MayHarm Management's Rep,0.0,0.0,neu
+Boeing ReportsOver $5.8 BillionIn Week's Orders,0.0,0.0,neu
+Boeing Weighs Sale or ClosureOf Connexion Internet Venture,0.0,0.0,neu
+Boeing Announces ConnexionMay Be Sold or Shut Down,-0.155555555556,0.288888888889,neu
+Cathay OrdersSix Freighter JetsFrom Boeing,0.0,0.0,neu
+Bank of America Sets Card Venture,0.0,0.0,neu
+Bank of America Plans to CutFees for Online Stock Trading,0.0,0.0,neu
+Insurers, Banks Clash Over ClaimsFor Enron, WorldCom Settlements,0.0,0.0,neu
+Temasek back in China bank,0.0,0.0,neu
+GMAC Will Sell Off Auto Loans,0.0,0.0,neu
+Beijing defends stake sales,0.0,0.0,neu
+Who's News Briefs,0.0,0.0,neu
+J.P. Morgan to ExpandReach of Card Business,0.0,0.0,neu
+BBVA extends its reach into U.S.,0.0,0.0,neu
+GMAC Auction Won't Be Simple,0.0,0.357142857143,neu
+Stronger Dollar Poses Profit Risks,0.0,0.0,neu
+FDA Seizes Contaminated Heparin,0.0,0.0,neu
+Drug Makers Disclose Value of Samples,0.0,0.0,neu
+Noted ...,0.0,0.0,neu
+U.S. Awards PactsFor DevelopmentOf Flu Vaccines,0.0,0.0,neu
+Jittery Companies Stash Cash,0.0,0.0,neu
+Vaccine Makers Struggle to Speed Output,0.0,0.0,neu
+Baxter to Replace or Pay Refunds on Infusion Pumps,0.0,0.0,neu
+Baxter's Profit Drops 8.9%,0.0,0.0,neu
+iShares Russell 2000, Baxter International: Money Flow Leaders (IWM, BAX),0.0,0.0,neu
+Biogen's Stock JumpsOn Strong Profit Forecast,0.433333333333,0.733333333333,pos
+Apple Falls as Biogen, Merck Rise,0.0,0.0,neu
+New Plea for PDL BioPharma to Sell,0.136363636364,0.454545454545,neu
+For Long-Term Investors,Don't Sweat the Volatility,0.0,0.0,neu
+Experimental Lupus Drug Fails,-0.2,0.35,neu
+Biogen Chairman RastetterTo Retire at End of Year,0.0,0.0,neu
+As Biotech Drug Prices Surge,U.S. Is Hunting for a Solution,0.0,0.0,neu
+MS Patients WarnedOn Use of Cancer Drug,0.0,0.0,neu
+Biogen Idec Says Early Testing May Halt Deaths Tied to Tysabri,0.1,0.3,neu
+Genentech to Buy Biogen Plant,0.0,0.0,neu
+The Other Women to Watch,-0.125,0.375,neu
+New York FedReports Progress On Derivatives,0.136363636364,0.454545454545,neu
+New York Fed Taps J.P. Morgan CEO,0.136363636364,0.454545454545,neu
+Once-Battered Mizuho FinancialHopes a U.S. Listing Helps It Grow,0.0,0.0,neu
+New York Fed TapsEconomist DudleyAs Markets Chief,0.136363636364,0.454545454545,neu
+Citigroup's Risky Win in China,0.8,0.4,neu
+In China, Citigroup EncountersHurdles to Retail-Banking Plans,0.0,0.0,neu
+Fed's Kos Will Leave,Was Link to Markets,0.0,0.0,neu
+Morgan Stanley Buys Group Stake,0.0,0.0,neu
+Noted . . .,0.0,0.0,neu
+Why a LawmanWields AuthorityOver Drug Maker,0.0,0.0,neu
+Bristol-MyersTo Pay $89 MillionTo Settle Lawsuits,0.0,0.0,neu
+Bristol-Myers Ex-OfficialsAre Indicted,0.0,0.0,neu
+Text of Bristol-Myers Statement,0.0,0.0,neu
+Bristol-Myers Moves Aren't Radical,0.0,0.0,neu
+Bristol-Myers Expected to Pay$300 Million to Settle Probe,-0.1,0.4,neu
+FDA Tentatively ApprovesGeneric Version of Sustiva,0.0,0.0,neu
+Bulls, Bears Debate ImClone,0.0,0.0,neu
+Drug Makers Show ProgressOn New Diabetes Medications,0.136363636364,0.454545454545,neu
+Brazil IssuesAIDS-Drug Ultimatum,0.0,0.0,neu
+Berkshire Hathaway Bought $18 Million In Stock,0.0,0.0,neu
+Berkshire Hathaway Buys New Stake in CVS Caremark, DirecTV, Intel,0.136363636364,0.454545454545,neu
+Berkshire Hathaway Earnings Quality Worries Analyst,0.0,0.0,neu
+Berkshire Didn't Double Its Stake in Verisk After All,0.0,0.0,neu
+Berkshire Net Falls, but Operating Profit Gains 37%,0.0,0.0,neu
+Is Warren Buffett Letting the Analyst Foxes Into the Henhouse?,0.0,0.0,neu
+Tanking Jefferies Stock Drags Down Mini-Berkshire,-0.155555555556,0.288888888889,neu
+Berkshire: Too Big to Thrive?,0.0,0.1,neu
+Berkshire's NetJets Sues IRS Over Tax Bill,0.0,0.0,neu
+Buffett to Buy Omaha World-Herald,0.0,0.0,neu
+Citigroup Board BlocksWeill's Bid to Step Down Early,-0.0277777777778,0.294444444444,neu
+Sanford Weill tenta deixar o Citigroup; conselho nega,0.0,0.0,neu
+Weill Ends Suspense:He'll Stay at CitigroupAnd Not Leave Early,0.1,0.3,neu
+Citigroup's No. 2Will Leave, SeekA Firm to Lead,-0.2,0.4,neu
+Why Legg Mason Is GettingOut of the Brokerage Business,0.0,0.0,neu
+Citigroup, Bank of America FeelPinch of Interest-Rate Trends,0.0,0.0,neu
+Weill's Perks Create Obstacles,-0.05,0.0,neu
+Dois maiores bancos dos EUA decepcionam mercado,0.0,0.0,neu
+Supermarket Savvy:Insurers See SuccessIn Banking Sector,0.0,0.0,neu
+Philadelphia ExchangeIs Courting Investors,0.0,0.0,neu
+Housing Pinches Caterpillar,0.0,0.0,neu
+Apple Grabs Focus In Mixed Trade Before Earnings,0.0,0.25,neu
+The 'Six Sigma' Factor for Home Depot,0.0,0.0,neu
+Bush to Deliver SpeechOn State of the Economy,0.0,0.0,neu
+Thermal Dynamics,0.0,0.0,neu
+Stocks Rise Ahead of Fed,0.0,0.0,neu
+How to Assess 2007's M&A Activity,0.0,0.0,neu
+In Trade Talks,Western Farmers Hold Their Ground,0.0,0.0,neu
+Downgrades Chip Away at Nasdaq,0.0,0.0,neu
+After Iraq Votes, More Dissension,0.5,0.5,pos
+Colgate Net Rises Despite Charges,0.0,0.0,neu
+Procter & Gamble,Colgate-PalmolivePost Higher Profit,0.25,0.5,pos
+Financial ChiefOf TIAA-CREFResigns Her Post,0.0,0.0,neu
+Playing It SafeMay Not Be BestIn This Downturn,0.0,0.0,neu
+Y&R Chief's First Test:Rebuilding His Own Brand,0.425,0.666666666667,pos
+Layoffs Seem to Conflict With TaxBreak Meant to Propel Job Growth,0.0,0.0,neu
+Former ExecutiveCould Face ScrutinyIn Berkshire Probe,0.0,0.0,neu
+China's M.B.A. ProgramsAttract the Business Elite,0.0,0.0,neu
+'Call to Action' Ads Give Clients Results They Can Measure,0.1,0.1,neu
+Hedge Funds Find CureFor Poison Pill: Teamwork,0.0,0.0,neu
+Other Sources: Tuesday's Press Roundup,-0.125,0.375,neu
+Comcast, UnitedHealth Group: Money Flow Leaders (CMCSA, UNH),0.0,0.0,neu
+CEOs See Some Light After a Dismal 2009,0.4,0.7,pos
+Sprint Seeks Control of Clearwire,0.0,0.0,neu
+The Morning Ledger: J.P. Morgan CFO Stepping Down,-0.155555555556,0.288888888889,neu
+Political Diary: California's Corporate-Labor Alliance,0.0,0.1,neu
+Recommended Reading,0.0,0.0,neu
+Hedge Fund Paid Summers $5.2 Million in Past Year,-0.25,0.25,neu
+Video: Find Out Where Corporate Jets are Really Going,0.1,0.1,neu
+Rachel Maddow's Bad Company,-0.7,0.666666666667,neg
+ING to Sell Capital One Stake for $3 Billion,0.0,0.0,neu
+Olympus, Sony Close to Agreement on Capital Injection,0.0,0.0,neu
+Olympus Nears Decision on Sony Investment,0.0,0.0,neu
+The Methodology Behind 'The Next Big Thing',-0.133333333333,0.266666666667,neu
+Ally Bank's New Ads Aim at Big Banks, Robots,0.0681818181818,0.277272727273,neu
+Discover Settles Inquiry of Credit-Protection Products,0.0,0.0,neu
+Road to CEO Post Goes Through CFO at Some Big Firms,0.0,0.1,neu
+Friday IPOs Fail to Price as Thursday's Rally Doesn't Carry,-0.5,0.3,neu
+L.A. Story: Koreatown's Banks Star,0.0,0.0,neu
+A Bank Zombie Lurks in Little Saigon,-0.1875,0.5,neg
+ConocoPhillips to SellChinese Onshore Block,0.0,0.0,neu
+ConocoPhillips's $10M Carbon Offset,0.0,0.0,neu
+ADM, Conoco Join ForcesTo Make 'Biocrude' Product,0.0,0.0,neu
+Smaller Oil Firms FuelRevival of U.K. North Sea,0.0,0.5,neu
+Kazakh Energy Plan Seen Aimed at Kashagan,0.0,0.0,neu
+Exxon Is FirstTo Go Legal RouteIn Venezuela Dispute,0.2,0.2,neu
+Eni Says Kashagan TalksAre 'Open, Constructive',0.0,0.5,neu
+To Gain Exposure to Gold,Traders Look to Mine Options,0.0,0.0,neu
+Mutual-Fund Managers Ready to Pounce,0.2,0.5,pos
+Stocks Steady as Oil Gains Again,0.166666666667,0.5,pos
+Costco Cuts View, Citing Markdowns On Pricey Goods,0.0,0.0,neu
+Micros, Lam Research Increase;Costco Slides on Earnings Miss,0.0,0.0,neu
+Wine Sales ThriveAs Old BarriersStart to Crumble,0.1,0.2,neu
+Consumer Demand and GrowthIn Laptops Leave Dell Behind,-0.4,0.7,neg
+Stocks Edge Higher in Thin Trading,-0.075,0.675,neg
+MarketBeat: Sweet Breadth,0.35,0.65,pos
+MarketBeat: Gold Mergers Cap a Good August,0.7,0.6,pos
+Metal Maneuvers,0.0,0.0,neu
+GDP Change-Ups,0.0,0.0,neu
+Commercial BoomGathers Steam,0.0,0.0,neu
+Cisco Loses Patent Argument,-0.3,0.1,neu
+Cisco Hints of Upturn as Profits Rise,0.0,0.0,neu
+The Morning Download: Security Concerns Thwarting Innovation,0.0,0.0,neu
+Unified Communications Is Gaining Traction Among CIOs and IT Departments,0.0,0.0,neu
+Upside: Apple Isn't the Only Company With a Cash Hoard,0.0,1.0,neu
+The Morning Download: Utilities to Address 'Significant Weaknesses' in Cybersecurity,0.375,0.875,pos
+The Morning Download: Big Data Faces Organizational Hurdles,0.0,0.1,neu
+Oracle to Buy Acme Packet for $1.7 Billion,0.0,0.0,neu
+The Morning Download: How Dell's Deal Helps Customers,0.0,0.0,neu
+Dell Buyout Plan Includes Bringing Cash to U.S.,0.0,0.0,neu
+Judge Delays Caremark Vote,0.0,0.0,neu
+ISS Urges Caremark HoldersTo Vote Down Bid by CVS,-0.155555555556,0.288888888889,neu
+Judge Refuses to Halt DealBetween Caremark-CVS,0.0,0.0,neu
+Express Scripts' ResponseTo CVS Raising Dividend,0.0,0.0,neu
+Investment Adviser RecommendsCaremark Holders Reject CVS Deal,0.0,0.0,neu
+Express Scripts' DelayIn Caremark Bid Aids CVS,0.0,0.0,neu
+Healthy Sales, Margins Help CVS Boost Net,0.25,0.25,neu
+Is $100 Billion LBO Next?,0.0,0.0,neu
+Express Scripts DuoKeeps Stock and Faith,0.0,0.0,neu
+As Rivals Tussle, Medco Sees Gains,0.0,0.0,neu
+Jury to Decide: Is Chevron Liable for Killings in Nigeria?,-0.1,0.5,neg
+Chevron's Net Income Soars,0.0,0.0,neu
+Tiffany, Caterpillar, GE in a Ricochet Rise,0.0,0.0,neu
+As Prices Slide, Oil Firms Make Tough Calls and Conserve Cash,-0.388888888889,0.833333333333,neg
+Total Submits Plan for China Gas Project,0.0,0.75,neu
+Offshore Rig Workers Call the Shots,0.0,0.0,neu
+Dow Industrials Drop 445 Points,0.0,0.0,neu
+U.S. stocks record gains, helped by H-P's outlook,0.0,0.0,neu
+Nasdaq at 5-Year Low; Best Buy Fears Worst,0.0,0.533333333333,neu
+Dow Rallies By 248.02, But Declines 4.1% on Week,0.0,0.0,neu
+Review of TeflonFlags More RiskThan EPA Report,0.5,0.5,pos
+Donaldson's Last Hurrah,0.0,0.0666666666667,neu
+Blue Chips Slide on Oil Spurt,0.0,0.1,neu
+Next Dream for Venter: CreateEntire Set of Genes From Scratch,0.0,0.0,neu
+Pistons Outlast the Heat at Home,But Now the Spurs Await Them,0.0,0.0,neu
+Let's Get Nanotech Right,0.285714285714,0.535714285714,pos
+Pollution Violators in ChinaAre Cited by Nonprofit Group,0.0,0.0,neu
+Is Dow Chemical a 'Buy,'Or Would a Buyout Be Better?,0.5,0.5,pos
+Big Corn Crop May Not Curb Prices,0.0,0.1,neu
+Stocks Slip on Weak Housing Data,-0.375,0.625,neg
+Text of Disney Press ReleaseNaming Iger as New CEO,0.136363636364,0.454545454545,neu
+Disney Turns to Insider IgerTo Take CEO Reins From Eisner,0.0,0.0,neu
+Letter to Disney Directors,0.0,0.0,neu
+How Eisner Handles Transition Is Crucial For Walt Disney Co.,0.0,1.0,neu
+As Weinsteins Exit Disney,A Murky Script,0.0,0.0,neu
+Disney Cuts Strategic-Planning Unit,0.0,0.0,neu
+Iger Faces a BumpyMagic Kingdom Ride,0.0,0.0,neu
+EBay CEO Whitman Withdraws As Candidate for Disney Top Spot,0.5,0.5,pos
+Disney DissidentsAttack Eisner RoleIn Search for CEO,0.0,0.0,neu
+Lehman Brothers, Walt DisneyGain Despite Oil-Price Nerves,0.0,0.0,neu
+Book review: Make It in America,0.0,0.0,neu
+The Daily Start-Up: Amgen Offers A Cool Billion,0.15,0.216666666667,neu
+U.S. Manufacturing Picks Up,0.0,0.0,neu
+China Spends $2.4 Billion...On Pesticides?,0.0,0.0,neu
+'Bhopali' Documentary Probes 1984 Industrial Disaster,0.0,0.0,neu
+Video: Manufacturing in the U.S. Makes a Comeback as More Jobs Are Created than Lost - News Hub,0.5,0.5,pos
+Qatar Discusses LNG Supply With Sinopec,0.0,0.0,neu
+Video: Stocks Start Year in Rally Mode - News Hub,0.0,0.0,neu
+In 2010, Growth Topped Gloom for Stocks,-0.133333333333,0.133333333333,neu
+On Tap Wednesday: South Korea GDP, Japan Trade Data,0.0,0.0,neu
+Storm's DamageTo Energy PlantsAppears Limited,-0.0714285714286,0.142857142857,neu
+Reckoning Katrina's Reach,0.0,0.0,neu
+Energy Companies, Airlines,Retailers Report Closures,0.0,0.0,neu
+Oil, Gas Production on Gulf Coast,0.0,0.0,neu
+Higher Energy Prices Boost Devon's Profit,0.25,0.5,pos
+ETF Aims to Profit From $4 Gas,0.0,0.0,neu
+Crude's Price Surge Attracts Oil-Field Thieves,-0.7,1.0,neg
+These 5 Companies Show Us the Money,0.0,0.0,neu
+Amazon.com Slides 10%;Google Falls,0.0,0.0,neu
+Stock Picks for 2006: Twelve Big Names,0.0,0.1,neu
+Ebay Inc.,0.0,0.0,neu
+Auctions Remain a Challenge for eBay,0.0,0.0,neu
+EBay Classified-Ad Site to Rival Craigslist,0.0,0.0,neu
+Nokia Puts eBay's Skype on Handsets,0.0,0.0,neu
+We Know What You OughtTo Be Watching This Summer,0.0,0.0,neu
+Mischief Unmanaged,0.0,0.0,neu
+More Small Firms Expand Abroad,0.125,0.45,neu
+Google Pays Price for Spending to Spur Growth,0.0,0.0,neu
+Spectrum Sale May Open Market,0.0,0.5,neu
+Avid Boarders Bypass Branded Gear,0.25,1.0,pos
+Video: Big Data and The Enterprise,0.0,0.1,neu
+Dublin Moves to Block Controversial Tax Gambit,0.55,0.95,pos
+How Many iPads in a Zettabyte?,0.5,0.5,pos
+Video: Find Out Where Corporate Jets are Really Going,0.1,0.1,neu
+Video: Are Large Stocks More Attractive Than Small?,0.316071428571,0.582142857143,pos
+Is Perry Like Reagan? Report Cards for Teachers, Hackathons Move to Mainstream,0.0,0.0,neu
+Bulls See Legs in Tech-Stock Rally,0.0,0.0,neu
+Search Software GetsBoost From New Rules,0.136363636364,0.454545454545,neu
+Boss Talk: What Security Firm RSA Learned From Its Own Breach,0.2,0.7,pos
+Boss Talk: What RSA Learned From Its Security Breach,0.0,0.0,neu
+Emerson Electric&#8217;s Short-Out,0.0,0.0,neu
+Brewer Anheuser-Busch Uneasy as New Owner InBev Slashes Costs,0.136363636364,0.454545454545,neu
+The New Rules of Central Air,0.0681818181818,0.352272727273,neu
+Heavy Machinery & Materials,-0.2,0.5,neg
+Emerson Electric Co.,0.0,0.0,neu
+Chloride Rejects Offer By Emerson Electric,0.0,0.0,neu
+Noted ...,0.0,0.0,neu
+Sales Gains Lift Emerson Profit,0.0,0.0,neu
+Bad Week Weighs On U.S. Companies' Confidence,-0.7,0.666666666667,neg
+Investors Seek Signs of Pickup in Autos,0.0,0.0,neu
+TXU Buyout Proposal's Mixed Effect,0.0,0.25,neu
+Aquila Deal Bows to State Regulators,0.0,0.0,neu
+TXU, Dow ChemicalSurge on Down Day,-0.155555555556,0.288888888889,neu
+Virgin Media's Flap With BSkyBCould Have a Long, Costly Run,-0.05,0.4,neu
+In TXU Deal, Texas Regulator Has Few Levers to Pull,-0.2,0.1,neu
+The Bottom Line,0.0,0.0,neu
+Avon, MGIC Rise; Sands Declines,0.0,0.0,neu
+Overheard,0.0,0.0,neu
+Arbitrage Looks More and More Arbitrary,0.3,0.533333333333,pos
+Reliant to Sell Retail Unit, Focus on Power Generation,0.0,0.0,neu
+Ford Motor Credit's OfferingOf Debt Gets Warm Reception,0.6,0.6,pos
+U.S. Auto Sales Slumped 8% in May,0.0,0.0,neu
+Ford Plans Deeper Cuts as Sales Slip,0.0,0.0,neu
+Ranking the Most-Reliable Cars,0.0,0.0,neu
+Ford to Pay Fine to Settle ChargesIt Didn't Disclose Investment Risk,0.416666666667,0.5,pos
+Key Treasury Yield Falls Below 4%,0.0,1.0,neu
+Ameritrade, E*Trade Gain;Ford Motor Drops on Outlook,0.0,0.0,neu
+Ford Recalls 260,000 Vehicles,0.0,0.0,neu
+Ford Begins the ProcessOf Shedding Hertz Unit,0.0,0.0,neu
+Small InvestorsRethink Auto Bonds,-0.25,0.4,neu
+Some Students Find ThemselvesIn Principal's Office Over Blogs,0.0,0.0,neu
+AOL Hopes to Steer Message-System FansTo Its Web-Site Ads,0.0,0.0,neu
+Where the Bets Are,0.0,0.0,neu
+Schools Use Web to Teach About Booze,0.0,0.0,neu
+Too Much Information?,0.2,0.2,neu
+Corrections & Amplifications,0.0,0.0,neu
+Friendster's 'Eww' Moment,0.0,0.0,neu
+Venture CapitalistsAre Betting BigOn Consumer Gadgets,0.0,0.0,neu
+Readers Spar OverSocial-Networking Sites,0.0,0.0,neu
+Facebook Plans Enhanced Ties to Outside Services,0.0,0.05,neu
+Protesters AttackFreeport's Office;Mine Stays Shut,0.0,0.0,neu
+Copper Falls on Options Selling,Report of Swelling Inventories,0.0,0.0,neu
+Freeport-McMoRan Posts $13.9 Billion Loss,0.0,0.0,neu
+Caterpillar, AmEx Fall While Barclays Surges,0.0,0.0,neu
+Financials Citi, BofA and MetLife Drop,0.0,0.0,neu
+Hot Stocks This Morning: Nokia, Alcatel-Lucent and Many More!,0.458333333333,0.616666666667,pos
+Gold, Silver Jumping Again Amid MENAJapanEuro Concerns,0.0,0.0,neu
+Dow Jumps Past 12100, Chartists Fret About S&P 500,-0.25,0.25,neu
+Three Reasons Gold (and Silver) Are Jumping Higher,0.25,0.5,pos
+Dr. Copper Likes the Strong U.S. Economic Data,0.316666666667,0.466666666667,neu
+FedEx to RaiseRates by 5.9%,0.0,0.0,neu
+Tough Times Complicate the Case for Buying Super Bowl Ads,-0.0277777777778,0.75,neg
+DHL Beats a Retreat From the U.S.,0.0,0.0,neu
+Companies Caught in India Drama,0.0,0.0,neu
+CEOs Say Stimulus Top Priority,0.5,0.5,pos
+UPS Won't Forecast Holiday-Shipping Volumes,0.0,0.0,neu
+DHL Retreats From U.S. Market,0.0,0.0,neu
+UPS Signs Global Deal With the European PGA,0.0,0.0,neu
+Video: CEO Council: How the U.S. Can Remain Competitive,0.0,0.0,neu
+WSJ's CEO Council Coverage Begins,0.0,0.0,neu
+Who Read What in 2014,0.0,0.0,neu
+'Glee' Star Jane Lynch's Emotional Goodbye to Cory Monteith,0.0,0.65,neu
+Bill O'Reilly's 'Killing Kennedy': Watch the Trailer For the Movie,0.0,0.0,neu
+Deals of the Day: Kinder Morgan, Chiquita, Carl Icahn and Lots of IPOs,0.0,0.0,neu
+Hedge Funds Flock to Apple,0.0,0.0,neu
+Smucker, Oracle, IBM Among Credit Suisse's 35 Firms Ripe for a Spinoff,0.0,0.0,neu
+Demi Lovato to Join 'Glee',0.0,0.0,neu
+Action Movie '2 Guns' Outdraws Competition at the Box Office,0.1,0.1,neu
+After Box Office Bombs, New Sony Pictures Exec Eyes the Bottom Line,0.136363636364,0.454545454545,neu
+'Dads': Group Calls Sitcom 'Racist', Fox Won't Reshoot,0.0,0.0,neu
+Defense-Industry Bosses Cash In,0.0,0.0,neu
+One Small Step for Drones,-0.25,0.4,neu
+BAE Posts Huge Jump In Year's Profit,0.4,0.9,pos
+BAE's Success Is Put to the Test,0.3,0.0,neu
+Rumsfeld Lays Out DefenseFor Proposed Pentagon Budget,0.0,0.0,neu
+Bush's Defense BudgetPuts Off Cuts to Weapons,0.0,0.0,neu
+Military BudgetSpares WeaponsFrom Cutbacks,-0.1,0.1,neu
+Icahn's Sound and FuryJust Aren't Enough,0.2,0.45,neu
+Who's News Briefs,0.0,0.0,neu
+Congress Tackles Defense Budget,0.0,0.0,neu
+Exxon Mobil, General Electric: Money Flow Leaders (XOM, GE),0.05,0.5,pos
+Auto Program in Climate Bill Raises Trade Concerns,0.0,0.0,neu
+Bank of Ayudhya to Buy GE Units in Thailand,0.0,0.0,neu
+Business Owners Ache as CIT Scales Back,0.0,0.0,neu
+Silverman to Depart His Post at NBC,0.0,0.0,neu
+Activists Seek SEC Social-Report Mandate,-0.1,0.6,neg
+TV Networks Fight Drug-Ad Measure,0.0,0.0,neu
+India Designates Sites for U.S. Nuclear Deals,0.0,0.0,neu
+Potential Void Left by CIT Would Be Filled, With Time,0.133333333333,0.633333333333,pos
+Welch: 'No Such Thing as Work-Life Balance',0.0,0.5,neu
+Gilead Signs License PactsFor Generic HIV Drug,0.0,0.0,neu
+HIV Drug Clears a Safety Hurdle,0.0,0.0,neu
+Law Firms Cooley Godward, Kronish Lieb Plan to Merge,0.0,0.0,neu
+Health,0.0,0.0,neu
+New Option for Rare Condition,0.218181818182,0.677272727273,pos
+New AIDS Pill Simplifies Treatment,0.136363636364,0.454545454545,neu
+FDA Clears Pill That CombinesThree Widely Used HIV Drugs,-0.1,0.4,neu
+Bond-Index Futures of the Future,0.0,0.125,neu
+Blog Roll -- Afternoon Edition,0.0,0.0,neu
+OPTIONS REPORT: Steady for Express Scripts, Dollar Tree?,0.166666666667,0.5,pos
+General Motors Corp.,0.05,0.5,pos
+Avtovaz Will Make CarsWith Magna in Russia,0.0,0.0,neu
+One System, Two Visions,0.0,0.0,neu
+General Motors Completes Test RunOf Two Hydrogen-Powered Vehicles,0.05,0.5,pos
+GM's Sharp Profit Drop PutsUrgency on Cost Cuts,-0.125,0.75,neg
+Stocks Rise on Productivity Data,0.0,0.0,neu
+GMAC Swings to Loss,0.0,0.0,neu
+Incentives UnlikelyTo Rev April Car Sales,0.0,0.0,neu
+In Workshop of 'Wheaties' Makers,Engineer Crafted a Novel Undersea Vessel,0.0,0.0,neu
+GM's Labor Issues Cloud Revival,0.0,0.0,neu
+Yahoo, WPP Unveil Online Ad Partnership,0.0,0.0,neu
+Google to Target BrandsIn Revenue Push,0.0,0.0,neu
+Google Net Soars on Web Ad Boom,0.0,0.0,neu
+Options Accounting Aids Google,0.0,0.0,neu
+In 'Click Fraud,'Web Outfits HaveA Costly Problem,0.0,0.0,neu
+Analysts React: Google's Earnings,0.0,0.0,neu
+Google Offers Web-Search Tracker,0.1,0.0,neu
+News Sites Turn to AdvertisementsOn Google, Yahoo to Boost Traffic,0.0,0.0,neu
+Anunciantes da internet enfrentam nova praga: a fraude do clique,0.0,0.0,neu
+Google Maps to Use Satellite Images,0.0,0.0,neu
+Goldman Sachs Exits Fujita Investment in Japan,0.0,0.0,neu
+Goldman Sachs Raids Credit Suisse For New Aussie Trading Desk,0.136363636364,0.454545454545,neu
+Goldman Sachs: No QE3 At September Meeting,0.0,0.0,neu
+Goldman Sachs Reports 6 Days of Trading Losses,0.0,0.0,neu
+Goldman Sachs Managing Director Curtis Smith Departs,0.0,0.0,neu
+Oakland's Bad Deal And Goldman Sachs -- Letters to the Editor,-0.7,0.666666666667,neg
+In Social Services Experiment, Goldman Sachs Invests in City Jail Program,-0.0333333333333,0.0333333333333,neu
+U.S. Won't Pursue Goldman Charges,0.0,0.0,neu
+Video: U.S. Won't Seek Goldman Sachs Charges Related to Financial Crisis and Mortgage Fraud Accusations,0.0,0.2,neu
+Why Goldman Sachs and KKR Want Your Money,0.0,0.0,neu
+Halliburton's Profit Falls 61%,0.0,0.0,neu
+DJIA Can't Hold 10K; IBM Weighs,0.0,0.0,neu
+Michael Moore: A Love Story? Not So Much,0.35,0.4,neu
+Chamber Says 'No Thanks' to the Yes Men,-0.1,0.2,neu
+Schlumberger Profit Drops 48%,0.0,0.0,neu
+To Combat Overseas Bribery, Authorities Make It Personal,0.0,0.3,neu
+KBR's Net Rises 65%,0.0,0.0,neu
+Changing Teams,0.0,0.0,neu
+Exxon Looks Close to Home,0.0,0.0,neu
+Oil Executives on a New Course,0.136363636364,0.454545454545,neu
+Home Depot Net Falls 66% As Store Growth Brakes,0.0,0.0,neu
+Home Depot Plans More Closings,0.5,0.5,pos
+Lowe's Expands on Home Depot's Pullback,0.0,0.0,neu
+The Difference Between Rivals,0.0,0.0,neu
+Home Depot Ex-Executive Is Charged With Fraud,0.0,0.0,neu
+Home Depot, Target and Financials Fall,0.0,0.0,neu
+Midday Macro: Staples, Home Depot Woe but Saks Surges,0.0,0.0,neu
+AMR, Home Depot And Hershey Gain,0.0,0.0,neu
+AmEx, Home Depot Rise on Strong Dollar,0.433333333333,0.733333333333,pos
+Home Depot Drops, While GM Rises 9.4%,0.0,0.0,neu
+Honeywell's Net Surges 22%On Strong Aerospace Growth,0.216666666667,0.366666666667,neu
+U.S. Defense Contractors PaintA Mixed Picture on Earnings,0.0,0.25,neu
+Caterpillar, Intel Rise on Profit Reports,0.0,0.0,neu
+Blue Chips Succumb to Inflation,0.0,0.1,neu
+A Perk Takes Off,0.0,0.0,neu
+Alcoa Is Flat Ahead of Earnings;Forest Labs, Siebel Take a Dive,-0.025,0.125,neu
+Paging Goldilocks,0.0,0.0,neu
+Stocks Declined in First QuarterAmid Focus on Inflation, Rates,0.25,0.333333333333,neu
+Honeywell, GE, AmEx Help PushDow Industrials to Record Close,0.0,0.0,neu
+GE Leads the FieldAs Industrials Hit High,0.16,0.54,pos
+McCain Sends Carly Fiorina To Meet With Clinton Backers,0.0,0.0,neu
+H-P, EDS Settle Shareholder Lawsuit,0.0,0.0,neu
+Former H-P Executive Indicted in Email Case,0.0,0.0,neu
+Profit at EDS Increases 16%,0.0,0.0,neu
+Sun Lowers Earnings Projection,0.0,0.0,neu
+Former H-P Executive Pleads Guilty,-0.25,0.5,neg
+VMware Ousts Star CEO as Growth Slows,0.0,0.0,neu
+Alcatel-Lucent Shifts Direction To Offset Slow Growth,-0.3,0.4,neu
+New Breed of Directors Reaches Out to Shareholders,0.136363636364,0.454545454545,neu
+Studio Chooses Intel for Chip Pact,0.0,0.0,neu
+China's Haier, Equity FirmsShow Interest in Bid for Maytag,0.0,0.0,neu
+Corrections & Amplifications,0.0,0.0,neu
+Intel's New Six-Brain Chip Garners Good Critiques,0.418181818182,0.527272727273,pos
+Nokia Pursues Security-Unit Sale,0.0,0.0,neu
+Commercial-Paper Market Seizes Up,0.0,0.0,neu
+Computer Sciences Gets Huge Tax Credit,0.4,0.9,pos
+IBM Plans to Build More Server Centers,0.5,0.5,pos
+Cisco to Buy Instant-Message Start-Up,0.0,0.0,neu
+Tumultuous Ad Market to Test New Ogilvy CEO,0.136363636364,0.454545454545,neu
+Cutting Tech's Energy Bill,-0.6,0.9,neg
+Phone Giants Are Lobbying HardTo Block Towns' Wireless Plans,0.0,0.0,neu
+High Schools Add Classes Scripted by Corporations,0.16,0.54,pos
+Patent Nonsense,0.0,0.0,neu
+Some CEOs AdvertiseThe 'Me' Brand -- With Limited Success,0.114285714286,0.0714285714286,neu
+Intel, Cisco Systems: Money Flow Leaders (INTC, CSCO),0.0,0.0,neu
+Green Goal of 'Carbon Neutrality' Hits Limit,-0.2,0.3,neu
+Run on Washington,0.0,0.0,neu
+Court Ruling Won't Much Affect Microsoft Customers,0.2,0.2,neu
+Companies Let Anyone E-MailThe Board, But Few Write In,-0.2,0.1,neu
+Intel Warning Bodes Ill for Whole Economy,-0.15,0.7,neg
+Suzanne Johnson,Goldman Sachs Star,To Retire in January,0.0,0.0,neu
+Targeting Depression,0.0,0.0,neu
+To Lure Teens to Its Latest Web Site,Conde Nast Turns to the 'Flip Squad',0.5,0.9,pos
+Stent ConcernsAre GalvanizingPlaintiffs' Bar,0.0,0.0,neu
+Hometown Makes Good,0.7,0.6,pos
+FDA, Ahead of a Safety Review,Cites Risk in Drug-Coated Stents,0.0,0.0,neu
+FDA Panel to ReviewRisks of Drug-Coated Stents,0.0,0.0,neu
+Study Finds Longer Plavix UseCuts Risk for Drug-Stent Patients,0.0,0.0,neu
+Psychiatrists Resist FDA on Widening Antidepressant Suicide Label,0.0,0.0,neu
+Big Phone FirmsDelve Undersea For Asian Growth,0.0,0.05,neu
+Consumer Confidence Rises Again,0.0,0.0,neu
+Yukos Drops 5 Banks From SuitIn Texas Over Auction of Unit,0.0,0.0,neu
+Resourcehouse Trims IPO Size as MGM Seeks More,0.5,0.5,pos
+Slowdown in Growth Is Becoming a Concern,0.45,0.85,pos
+Bid to Use Gold as Collateral Advances,0.0,0.0,neu
+J.P. Morgan to Bear: Teach Us How You Did That,0.0,0.0,neu
+J.P. Morgan and the Chamber of Secrets,0.0,0.0,neu
+Premarket: J.P. Morgan Boosts Futures,0.0,0.0,neu
+Live-Blogging the J.P. Morgan Earnings Call,0.0,0.0,neu
+Investors Put Ford Bonds in Their Future,0.0,0.125,neu
+Hansen Distribution Deal,0.0,0.0,neu
+Coke Bottler Takes Hit On Cost of Concentrate,0.0,0.0,neu
+Exxon Leads the Dow; Allstate, Goldman Fall,0.0,0.0,neu
+Coke Overcomes Weak U.S. Results,-0.375,0.625,neg
+Broader, Deeper Job Cuts Risk Steepening Slump,0.0,0.0,neu
+Pepsi Results Send Chills In Beverage, Snack Sector,0.0,0.0,neu
+Mistakes Marketers Make,0.0,0.0,neu
+In This Market, Dividends Look Great,0.8,0.75,pos
+Barclays Capital Loan Sale Finds Few Buyers,-0.2,0.1,neu
+Margin Calls Hitting More Executive Suites,0.5,0.5,pos
+Under Criticism,Drug Maker LillyDiscloses Funding,0.0,0.0,neu
+Eli Lilly & Co.,0.0,0.0,neu
+Noted . . .,0.0,0.0,neu
+What Diabetes Patients Need to Know,0.0,0.0,neu
+Pharma Box Office: Diabetes Drugs,0.0,0.0,neu
+More Pharma Genes in Biotech's DNA,0.5,0.5,pos
+Lilly Posts a Profit on Jump in Sales,0.0,0.0,neu
+Dell's WarningPuts PressureOn the Market,0.0,0.0,neu
+Financial Ties to IndustryCloud Major Depression Study,0.03125,0.25,neu
+FDA Signals It's OpenTo Drug Trials ThatShift Midcourse,0.0,0.0,neu
+Lockheed's ProfitIncreases by 60%;Northrop's Drops,0.0,0.0,neu
+With New Rules,Weapons Projects Set Higher Costs,0.193181818182,0.477272727273,neu
+Satellite MalfunctionUnsettles Broadcasters,0.0,0.0,neu
+Boeing Joins Team CompetingFor U.S. Military Plane Contract,-0.1,0.1,neu
+Rate Fears Sink Stocks,0.0,0.0,neu
+Boeing Nears Settlement With U.S.,0.0,0.0,neu
+Social Engineering,0.0333333333333,0.0666666666667,neu
+Air Force TankerGets Nod; Boeing,Airbus to Compete,0.0,0.0,neu
+Health Insurers MustCover Adult Children,0.1,0.3,neu
+Pentagon Cites 36 Arms ProjectsFor Cost Growth Under New Rules,0.136363636364,0.454545454545,neu
+Lowe's Net Rises,But March SalesChilled by Weather,0.0,0.0,neu
+GM Drives Toward EndOf Big Media Review,0.0,0.1,neu
+Dow Industrials Recover by 1.1% As Worries Ease,0.0,0.0,neu
+Exxon, Chevron Shares Edge Down,-0.155555555556,0.288888888889,neu
+Inflation and Rate Fears Ebb,Pushing Blue Chips Higher,0.125,0.3,neu
+AIG and Home Depot Get a Bump,0.0,0.0,neu
+A Paint Pro Paints a Home,0.0,0.0,neu
+Publicis Wins a GM Media Account,0.3,0.2,neu
+Half-Glass Economy,0.0,0.0,neu
+China Feels the Heat,0.0,0.0,neu
+MasterCard To Buy Travelex Prepaid Business,0.0,0.0,neu
+MasterCard Develops Payment Solution for UID Project,0.0,0.0,neu
+Teen Arrested in the Netherlands in Hacking Attacks by WikiLeaks Sympathizers,0.0,0.0,neu
+Hackers Strike Back to Support WikiLeaks,0.0,0.0,neu
+WikiLeaks' Supporters Pledge More Attacks,0.5,0.5,pos
+Web Attacks Test PayPal's Defenses,0.0,0.0,neu
+Fed's New Debit-Card Fee Rules Hit Hard; Issuers Howl,-0.0776515151515,0.498106060606,neu
+Judge Keeps Dutch Teen in Custody,0.0,0.0,neu
+WikiLeaks Has Sharply Raised Spending,-0.125,0.75,neg
+Banks Look to Prepaid Cards to Replace Lost Revenue,0.0,0.0,neu
+Hedge-Fund Man at McDonald's,0.0,0.0,neu
+McDonald's Plans to Sell Part Of Chipotle in an IPO Next Year,0.0,0.0,neu
+Fund Lifts McDonald's Shares,0.0,0.0,neu
+McDonald's MarketerLarry Light to Retire;Dillon to Be Successor,0.4,0.7,pos
+McDonald's OptionsProvide an Opening;A For-Profit CBOE,0.0,0.0,neu
+McDonald's Posts Strong Sales,0.433333333333,0.733333333333,pos
+Buying an iPod from a Vending Machine,0.0,0.0,neu
+Job OutpouringFor EvacueesSparks Backlash,0.0,0.0,neu
+Who's News Briefs,0.0,0.0,neu
+Market Rises, but Katrina Is Roiling Stocks,0.0,0.0,neu
+Video: Opinion Journal: California's War on Suburbia -- Wendell Cox on why the state wants denser housing,0.2,0.1,neu
+A Jobs Slump,0.0,0.0,neu
+Kraft Expects Kick From Drinks,0.0,0.0,neu
+What's a Mondelez? A Krafty New Name for Snack Maker,0.136363636364,0.454545454545,neu
+Corrections & Amplifications,0.0,0.0,neu
+Kraft Still Trimming the Fat Ahead of Split,0.0,0.0,neu
+Video: If Apple Strikes a Deal With Cable Companies, Price of Cable May Drop,0.0,0.0,neu
+Kraft Foods to Sell Part of Back to Nature Line,0.0,0.0,neu
+Inside Apple v. Samsung; A Legal Perspective; Power of the Zuckerberg Like,0.2,0.2,neu
+Stocks Hit Multiyear High,0.16,0.54,pos
+Medtronic Settles Patent Fight,0.0,0.0,neu
+Pain Control Gets RechargeableWith Latest Neurostimulators,0.5,0.9,pos
+A More Affordable Cardiac Device,0.225,0.25,neu
+Building Wealth, DRIP by DRIP ...,0.0,0.0,neu
+How a Famed Hospital InvestsIn Device It Uses and Promotes,0.0,0.0,neu
+Guidant Issues Warning on Its Older Pacemakers,0.166666666667,0.333333333333,neu
+Medical-Device Makers May SeeSlower Growth in the Second Half,-0.0833333333333,0.0833333333333,neu
+Guidant's Profit FallsOn Charge for Recall,0.0,0.0,neu
+Volatility ForecastRises Amid BuyingOf Puts on Utilities,0.0,0.0,neu
+Boston Scientific LosesPatent Case Over J&J Stent,0.0,0.0,neu
+MetLife Probed on Death Benefits,0.0,0.0,neu
+Hancock in Settlement Over Death Benefits,0.0,0.0,neu
+Stock and Bond Sales Stand Up to the Turmoil,0.0,0.0,neu
+States Probe Life Insurance Policy Payments,0.0,0.0,neu
+Regulators Order 14 Banks to Revamp Foreclosure Practices,0.0,0.0,neu
+Do 'Managed Payout' Funds Pay Off?,0.0,0.0,neu
+Life-Insurance Licensing Test Is Too Hard, Biased, Primerica Says,-0.291666666667,0.541666666667,neg
+Task Force Members From The Wall Street Journal's Conference on Women in the Economy,0.0,0.0,neu
+MetLife's EarningsSoar 65% on GrowthIn Premiums, Fees,0.0,0.0,neu
+Insurers PushAll-in-One Policies,0.0,0.0,neu
+3M Cuts an Additional 1,200 Jobs,0.0,0.0,neu
+Workers at 3M Plant in France Take Boss Hostage,0.0,0.0,neu
+French Executives Surrender Stock Options, Responding to Protests,0.0,0.0,neu
+In Europe, Rage Over Crisis Hits Executives,0.0,0.0,neu
+Forget Companies -- Traders Track the Lawmakers,0.0,0.0,neu
+Ford Names Gephardt, Earley to Board,0.0,0.0,neu
+Today's Photos: March 25,0.0,0.0,neu
+3M to Take Repatriation Charge,0.0,0.0,neu
+Long Haul AheadFor Boeing's Chief,-0.05,0.4,neu
+For Its New CEO,3M Is ExpectedTo Look Outside,0.0681818181818,0.252272727273,neu
+Altria's Profit Rises 8.9% On Strong Cigarette Sales,0.433333333333,0.733333333333,pos
+GM and Altria Flex MusclesBut GenProbe Shares Fall 6.8%,0.0,0.0,neu
+Altria Declines; J&J, GM, Apple Rise,0.0,0.0,neu
+J.P. Morgan, Altria AdvanceWhile Intel and Honeywell Fall,0.0,0.0,neu
+Dow Gains 60.76, Powered by GM DealAnd Court Decision Favoring Altria,0.0,0.0,neu
+Justices Won't Hear Tobacco Case,0.0,0.0,neu
+Rx From Marlboro Man: DeviceThat Delivers Drugs, Not Smoke,0.0,0.0,neu
+Tobacco: Smoke Signals From the Courts,0.0,0.0,neu
+Kraft Earnings Decline 13.5%On Higher Commodity Costs,0.25,0.5,pos
+Why Kraft Decided to BanSome Food Ads to Children,0.0,0.0,neu
+Monsanto Profit Tumbles 81%,Hurt By Acquisition Write-Offs,0.0,0.0,neu
+Monsanto Investment in SolutiaTo Aid in Chemicals Cleanup,0.0,0.0,neu
+Oracle, AIG Rise After Earnings;General Mills, Monsanto Decline,0.0,0.0,neu
+EU States Reject Lifting Biotech Bans,0.0,0.0,neu
+GM Helps Blue Chips Stay Positive,0.113636363636,0.322727272727,neu
+Investors Hold Fire Before Fed,0.0,0.0,neu
+Crackdown Puts Corporations,Executives in New Legal Peril,0.168181818182,0.327272727273,neu
+Donaldson's Last Hurrah,0.0,0.0666666666667,neu
+The Neutrality Gamble,0.0,0.0,neu
+Step by Step,0.0,0.0,neu
+Merck, Schering See Smaller Decline,0.0,0.5,neu
+Merck Signals Delays For Its Shingles Vaccine,0.0,0.0,neu
+Merck Sees Wait on Cordaptive,0.0,0.0,neu
+FDA Rejects Expanded Gardasil Use,0.0,0.0,neu
+Merck Wins Suit on Vioxx Monitoring,0.3,0.2,neu
+Merck, iShares Russell 1000: Money Flow Leaders (MRK, IWB),0.0,0.0,neu
+Drug Makers Say FDA Safety Focus Is Slowing New-Medicine Pipeline,0.0,0.0,neu
+Even Defensive Names Take Hits,0.0,0.0,neu
+Genetic Research May Help Pick Patients' Best Cancer Drugs,1.0,0.3,neu
+Roberts, Alito Pare Holdings,0.0,0.0,neu
+Less Risky, Morgan Stanley Still at Loss,-0.166666666667,0.0666666666667,neu
+Morgan Stanley to Post a Loss From Volatile, Complex Bonds,-0.3,0.4,neu
+Does Morgan Stanley Want to Exit the Casino?,0.0,0.0,neu
+Morgan Stanley Eyes Big Trading Change,0.0,0.1,neu
+Morgan Stanley: Analysts Fooled by Randomness,0.0,0.0,neu
+Morgan Stanley Is Left Out of the Rally Party,0.0,0.0,neu
+Morgan Stanley&#8217;s Troubles Hit Shares,0.0,0.0,neu
+Morgan Stanley Adds Four to Management Committee,0.0,0.0,neu
+Mack: We Still Have to Shell Out,0.0,0.0,neu
+Morgan Stanley Raises $1.1 Billion for Fund,0.0,0.0,neu
+Bank of America Follows Internet Companies Into the Cloud,0.0,0.0,neu
+Microsoft PlansTo Step Up PaceOf Acquisitions,0.0,0.0,neu
+Google Calls MicrosoftLawsuit a Scare Tactic,0.0,0.0,neu
+Microsoft's Net Income Jumps 38%,0.0,0.0,neu
+Microsoft Sues to KeepAide From Google,0.0,0.0,neu
+Microsoft AccordTo End IBM CaseHighlights Rivalry,0.0,0.0,neu
+Microsoft WinsSmall BattleIn Google Suit,0.0,0.0,neu
+Text of Microsoft Statement,0.0,0.0,neu
+New Microsoft ProgramOffers Homework ToolsBut It's Clumsy to Use,-0.0818181818182,0.427272727273,neu
+Microsoft Opens New Windows With a Less-Technical Name,0.136363636364,0.454545454545,neu
+Nike Net Jumps 32%On U.S. Sneaker Sales,0.0,0.0,neu
+The Science of Running Barefoot -- in Shoes,0.0,0.0,neu
+Ordinary People Starring in AdsConvey Realistic, Genuine Feel,0.105555555556,0.444444444444,neu
+Core LaboratoriesRises, but VisteonAnd Cost Plus Fall,0.0,0.0,neu
+Yue Yuen's Profit Declines 10%As Labor, Materials Costs Surge,0.0,0.0,neu
+Exxon Mobil, Transocean Hit Records as GM, FedEx Slump,0.0,0.0,neu
+Ugly Rita,-0.7,1.0,neg
+Plain and Fancy Footwork,-0.214285714286,0.357142857143,neu
+For Plus-Size Women,More Chic Choices,0.0,0.0,neu
+Once-Hot Volkswagen AttemptsTo Reverse U.S. Sales Decline,0.0,0.0,neu
+Mutual Funds That Are Beating the Bear,0.0,0.0,neu
+Stocks to Watch: Weatherford, Delta and More,0.5,0.5,pos
+Morning MarketBeat: Feeling the Burn,0.0,0.0,neu
+Tomorrow's Tape: Sweet Home,0.35,0.65,pos
+Exxon, BP Decline; Aetna Bounces Back,0.0,0.0,neu
+'Smart Pig' Hogs Spotlight as BP Closes Oil Field,0.214285714286,0.642857142857,pos
+Shareholder Criticism,0.0,0.0,neu
+Chesapeake Energy Board Turns on CEO Aubrey McClendon,0.0,0.0,neu
+Oil-Field Suppliers Feel Urge to Merge,0.0,0.0,neu
+Large-Cap Stocks Snap Two-Day Rally,0.0,0.0,neu
+Railroad Stocks Are Picking Up Steam,0.0,0.0,neu
+Less Bearish on the Buck,-0.166666666667,0.0666666666667,neu
+Train Accident Adds to Calls For New Monitoring,0.136363636364,0.454545454545,neu
+Tensions MountOver Fuel ChargesSet by Railroads,0.0,0.0,neu
+Railroads Push to Harden Tank Cars,0.0,0.0,neu
+Railroads Face Combined Price-Fixing Complaint,-0.3,0.2,neu
+Burned Before, Railroads Take Risks,0.0,0.0,neu
+Industrial Stocks Suffer Bleak Tuesday,-1.0,1.0,neg
+Freight Haulers Slam on the Brakes,0.0,0.0,neu
+Berkshire TakesA Bigger InterestIn U.S. Railroads,0.0,0.5,neu
+As Tech Rebounds,A Software MogulBuilds Big in Hawaii,0.0,0.1,neu
+BEA's Response to Oracle,0.0,0.0,neu
+Oracle Delivers LetterTo BEA Systems Board,0.0,0.0,neu
+A Positive Halo,0.227272727273,0.545454545455,pos
+The Private-Equity CEO,0.0,0.0,neu
+Oracle's Letter to Retek Directors,0.0,0.0,neu
+In Line to Lead,0.0,0.0,neu
+Oracle's Statement on Siebel Deal,0.0,0.0,neu
+Oracle Cases Show Risks of Selling,0.0,0.0,neu
+Judge Questions Costs in Oracle Suit,0.0,0.0,neu
+Roc Oil to Drill in Angola,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Behind Soaring Executive Pay,Decades of Failed Restraints,-0.45,0.5,neg
+Nexen Targets Canada Oil Sands,To Sell Some Conventional Fields,-0.142857142857,0.357142857143,neu
+Oil Drilling Goes High Tech,0.16,0.54,pos
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+What's Old is New,0.118181818182,0.327272727273,neu
+Drinks Makers Woo Convenience Store Shoppers,0.0,0.0,neu
+Stocks to Watch: McDonald's, Dollar Thrifty and More!,0.625,0.5,pos
+New! Improved! Products That Look Very Old,0.171534090909,0.357272727273,neu
+In Quest for Job Candidates, Companies Aim to Look Cool,0.35,0.65,pos
+To Cut Costs in China, Companies Shrink Package Size,0.0,0.0,neu
+Ronald McDonald to Face Fire at Annual Meeting,0.0,0.0,neu
+McDonald's Marketing and Ronald McDonald Come Under Fire,0.0,0.0,neu
+PepsiCo Plans Recycling Initiative,0.0,0.0,neu
+Tata Tea, PepsiCo Explore Joint Venture,0.0,0.0,neu
+Pfizer to Cut 6,000 Jobs, Halt Work at Eight Sites in Wake of Wyeth Deal,0.0,0.0,neu
+OPTIONS REPORT: Big 'Buy-Write' Trades in Pfizer, Activision,0.0,0.1,neu
+Pfizer Halts Inspra Trial Enrollment on Early Success,0.2,0.15,neu
+Pfizer Teams Up With Medical School,0.0,0.0,neu
+Supreme Court Rejects Pfizer Appeal in Investor Suit,0.0,0.0,neu
+AstraZeneca Poaches R&D Head From Pfizer,0.0,0.0,neu
+Pfizer, Merck Net Slides,0.0,0.0,neu
+Generic Lipitor Goes on Sale in Canada,0.0,0.0,neu
+Pfizer Deal Highlights China's Clout,0.0,0.0,neu
+Corporate Watch,0.0,0.0,neu
+Noted ...,0.0,0.0,neu
+Noted . . .,0.0,0.0,neu
+Beneath the Dow's Surge,Investors Find a Mixed Bag,0.0,0.25,neu
+As Energy Prices Sink,Many Firms Are Buoyed,0.0,0.0,neu
+P&G Stumbles in China,0.0,0.0,neu
+At Many Companies, Hunt for LeakersExpands Arsenal of Monitoring Tactics,0.5,0.5,pos
+CW Will Try A New Ad Idea:'Content Wraps',0.136363636364,0.454545454545,neu
+Revlon Elevates Kennedy To CEO as Stahl Resigns,0.0,0.0,neu
+P&G Sells Sure Deodorant LabelTo Private Firm Innovative Brands,0.2,0.665972222222,pos
+'Any College Will Do',0.0,0.0,neu
+Who's News Briefs,0.0,0.0,neu
+Noted . . .,0.0,0.0,neu
+Who's News Briefs,0.0,0.0,neu
+Cigarette MakersAnd U.S. Seek Deal,0.0,0.0,neu
+Stock Market Still Faces Uncertainty,0.0,0.0,neu
+Japan's Smoking Rate Hits Record Low,0.0,0.3,neu
+Europe's Smoking Problem,0.0,0.0,neu
+Jeremy Siegel and Jeremy Schwartz: The Great American Bond Bubble,0.4,0.375,neu
+Reynolds's New Cigarette Merely Heats Tobacco,-0.181818181818,0.477272727273,neu
+Barclays's Barbara Byrne on Building Client Relationships,0.0,0.0,neu
+Qualcomm's Profit Leaps 46%,0.0,0.0,neu
+Option Trading Remains CautiousDespite Drop in Producer Prices,0.0,0.0,neu
+Wireless Industry Agrees to StudyStandard to Boost Network Speed,0.0,0.0,neu
+Tax Cut, Shareholder PressureStoke Surge in Stock Dividends,0.0,0.0,neu
+Kyocera Wireless to Cut Jobs,Shift Manufacturing to Mexico,0.0,0.0,neu
+TI to Supply New Phone Chip,0.136363636364,0.454545454545,neu
+Technology Stocks DeclineAs eBay's Woes Rattle Investors,0.0,0.0,neu
+NASD FinesStock AnalystOver a Rumor,0.0,0.0,neu
+Corrections & Amplifications,0.0,0.0,neu
+Readers Are Split on FiningAnalysts for Passing Rumors,0.0,0.0,neu
+L-3 Looks for More Lift,0.5,0.5,pos
+The Cities Immigrants Skip;Hugo Stirs Up Montana Storm,0.0,0.0,neu
+ITT Agrees to Buy EDO for $1.4 Billion,0.0,0.0,neu
+Video: digits: Jobs's Disney Attendance Record Questioned,0.0,0.0,neu
+Colleges' Research Agreements With Corporations Play Big Role in Jobs,0.0,0.1,neu
+Bold Builders Bet on Skyscrapers,0.333333333333,0.666666666667,pos
+Best Executive MBA Programs: The Wall Street Journal's 2010 Rankings,1.0,0.3,neu
+U.S.-Saudi Arms Deal Moves Ahead,0.0,0.0,neu
+Oil-Rich Norway Hires Philosopher As Moral Compass,0.0,0.25,neu
+Can Boeing Stay at Lofty Heights?,0.0,0.0,neu
+Happy Workers Are the Best Workers,0.9,0.65,pos
+New Respect for an Old Ritual,0.118181818182,0.327272727273,neu
+Labor Complaint Hits Starbucks,-0.3,0.2,neu
+Heartland Sees Boom With Grains in Demand,0.0,0.0,neu
+The 50 Women to Watch 2008,0.0,0.0,neu
+When Activists Are Terrorists,0.0,0.0,neu
+Use These Search Strategies When You're Looking to Relocate,0.0,0.0,neu
+Will Work for Fodder,0.0,0.0,neu
+Nasdaq to Acquire Phil-Ex for $652 Million,0.0,0.0,neu
+ADM ChoosesAn Energy-Savvy OutsiderAs Its New CEO,0.136363636364,0.454545454545,neu
+Schlumberger Net Jumps,0.0,0.0,neu
+Schlumberger's Net Rises 47%,Helped by International Operations,0.0,0.0,neu
+Exxon Mobil, Schlumberger: Money Flow Leaders (XOM, SLB),0.0,0.0,neu
+SPDR Trust, Schlumberger: Money Flow Leaders (SPY, SLB),0.0,0.0,neu
+Schlumberger, iShares Russell 2000: Money Flow Leaders (SLB, IWM),0.0,0.0,neu
+Energy Shock:Sector's SharesStill a Bargain,0.0,0.0,neu
+BP's Net Income Rises 1.5%On Sale of Refinery, Pipeline,0.0,0.0,neu
+Stocks Gain on Mergers, Earnings,0.0,0.0,neu
+Google, Caterpillar Hurt Markets,0.0,0.0,neu
+Halliburton's Net More Than Doubles,0.25,0.25,neu
+Major Indexes End Mixed On Jitters Over Oil Prices,0.03125,0.375,neu
+The Second Draft,0.0,0.0,neu
+China's M.B.A. ProgramsAttract the Business Elite,0.0,0.0,neu
+Sudan's Oil Leads to Standoff,0.0,0.0,neu
+Shopkeepers Say 'Enough',0.0,0.5,neu
+Creditor-Friendly South OffersPreview of Bankruptcy Changes,0.0,0.0,neu
+Citigroup and Fannie Mae Decline,0.0,0.0,neu
+Spain's Auna and Ono Battle For Each Other's Media Assets,-0.125,0.375,neu
+Archstone-SmithTo Buy ApartmentsFrom Oakwood,0.0,0.0,neu
+Conviction Marks a Crucial WinFor U.S. Prosecutor in Manhattan,0.0,1.0,neu
+Lenders Clamp DownOn Inflated Appraisals,0.0,0.0,neu
+Real Estate,0.2,0.3,neu
+Concerns MountAbout Mortgage Risks,0.0,0.0,neu
+Rising RentsJolt Tenants,0.0,0.0,neu
+Simon Property Sets Offerings to Repay Debt,0.0,0.0,neu
+Simon, Others in Real Estate Tackle Debt,0.2,0.3,neu
+With Little Choice, REITs Raise Capital,-0.1875,0.5,neg
+REIT Dividend Cuts Loom,0.0,0.0,neu
+General Growth Avoids Chapter 11,0.05,0.5,pos
+Mall Owner Presses Bondholders,0.0,0.0,neu
+The Year of the Quarterback Meltdown,0.0,0.0,neu
+AT&T Inc.,0.0,0.0,neu
+AT&T, BellSouth Statement,0.0,0.0,neu
+AT&T Inc.,0.0,0.0,neu
+AT&T Issues Upbeat Forecasts,0.0,0.0,neu
+Phone Giants Roll Out 'Three Screen' Strategy,0.0,0.0,neu
+Union WeaknessLets Firms SeekBig Concessions,0.0,0.0,neu
+In Europe's AuctionOf New Web Names,Strife and Confusion,0.136363636364,0.454545454545,neu
+AT&T Inc.,0.0,0.0,neu
+AT&T Expands High-Speed Internet Rollout,0.0,0.0,neu
+Energy Firm to Miss TargetFor Drilling Offshore Russia,-0.2,0.4,neu
+Online Clothes Reviews Give'Love That Dress' New Clout,0.318181818182,0.527272727273,pos
+Alltel Looks Like a Good Call to Private Equity,0.35,0.4875,neu
+How a Highflier in Marketing Fell at Wal-Mart,0.0,0.0,neu
+Sony Will Boost LCD Shipments,0.0,0.0,neu
+Search EnginesHelp ShoppersTo Buy Locally,0.0,0.0,neu
+Wall Street Weighs InOn Airline Consolidation,0.0,0.0,neu
+Wii! Wii! Wii! This Holiday Season Has Been a Wild Ride for Nintendo,0.1,0.4,neu
+Wal-Mart Blames Short-Term Woes,But Some Expect Challenges to Remain,0.0,0.0,neu
+Walgreen Profit Jumps 25%,Helped by Prescription Sales,0.0,0.0,neu
+SEC Fines Time Warner $300 Million,-0.1,0.6,neg
+Text of SEC StatementOn Time Warner Settlement,-0.1,0.6,neg
+Cablevision, Time Warner FailTo Reach Sports Networks Deal,0.0,0.0,neu
+Time Warner Press Release on SEC Settlement,-0.1,0.6,neg
+Time Warner Joins 'Indie' Film CompanyWith HBO, New Line,0.0681818181818,0.227272727273,neu
+Warner Music Unveils IPO Plan,In Possible Step Toward EMI Deal,0.0,1.0,neu
+EU Drops Probe Into DealAllying Microsoft, Time Warner,0.0,0.0,neu
+Time Warner's Ivan HeldMoves to Putnam's Sons,0.0,0.0,neu
+Internet-Service Providers UseVOIP to Get Into Phone Game,-0.4,0.4,neu
+Movie, Music GiantsTry New Weapon Against Pirates: Price,0.136363636364,0.454545454545,neu
+Semiconductor Firms Slash Forecasts,0.0,0.0,neu
+Semiconductor Companies Are Hot Commodities Recently,0.125,0.55,pos
+Are Chips Done With Dips?,0.0,0.0,neu
+Fairchild Semi to Cut 12% of Staff,0.0,0.0,neu
+Dow industrials decline amid profit warnings,0.0,0.0,neu
+Two New Devices Give Presentations Some Portability,0.136363636364,0.454545454545,neu
+FedEx and SunTrust Get Hit in Down Day,-0.155555555556,0.288888888889,neu
+Dow Drops 2.7% in Broad Retreat,0.0625,0.3125,neu
+European Shares Advance; Daimler, Nokia Gain,0.0,0.0,neu
+Moscow to OPEC: Let's Revamp How Oil is Traded,0.0,0.0,neu
+Court Bolsters UnitedHealth Settlement,0.0,0.0,neu
+GM Reaches Settlement In Securities-Fraud Case,0.0,0.0,neu
+Humana Net Falls as Costs Increase,0.0,0.0,neu
+Fierce Bidding for Drug Benefit,0.0,0.0,neu
+Top Newsletter Picks,0.5,0.5,pos
+Insurers Bet BigOn New Drug Benefit,0.136363636364,0.454545454545,neu
+WellPoint Gets New York FootholdIn $6.5 Billion WellChoice Deal,0.136363636364,0.454545454545,neu
+Medicare Names ApprovedDrug-Plan Providers,0.0,0.0,neu
+Newly Out of a Job? Here's How To Replace the Health Benefits,0.136363636364,0.454545454545,neu
+Insurers Hire Radiology Police to Vet Scanning,0.0,0.0,neu
+UPS, Union Pacific Profits Show Healthy Economy,0.5,0.5,pos
+Union Pacific's Profit JumpsOn Sharp Rise in Shipping Rates,-0.125,0.75,neg
+The Middle of Somewhere,0.0,0.0,neu
+Tensions MountOver Fuel ChargesSet by Railroads,0.0,0.0,neu
+Three Chinese AirlinesMight Forge Tighter Links,0.0,0.0,neu
+Traffic Jam on the Tracks,0.0,0.0,neu
+Pomp & Circumstance,0.0,0.0,neu
+Noted ...,0.0,0.0,neu
+Can Ethanol SolveThe Nation's Energy Problems?,0.0,0.0,neu
+A Look at Three Companies in Energy Deal,0.0,0.0,neu
+Trying to Turn Its Image Around,U.S. Puts Top CEOs Out Front,0.5,0.5,pos
+GM's Board Seeks to AddAn African-American Director,0.0,0.0,neu
+Pension Measures Remain Far Apart,0.1,1.0,pos
+Air-Cargo Customers ComplainAbout Carriers' Surcharges,0.0,0.0,neu
+McAfee Rises 18%;Arch Coal Declines,0.0,0.0,neu
+Intel, Yahoo Trade RobustlyAmid Week of Tech Earnings,0.0,0.0,neu
+UPS Rebounds to 16% Net Rise,But Is Cautious About Economy,0.0,0.0,neu
+Amazon Delivers 'Harry Potter'On Same Day of Book's Release,0.0,0.125,neu
+Banks Start to Cater to Late Payers,-0.3,0.6,neg
+U.S. Postal Service Makes MoveToward Setting a Rate Increase,0.0,0.0,neu
+Selling the Special Touch,0.357142857143,0.571428571429,pos
+Marvell DropsOn SEC Query;Rambus Gains 6.7%,-0.1,0.6,neg
+Fed Faces a Post-Katrina Conundrum:Slowdown in Growth, Rise in Inflation,0.0,0.0,neu
+Lenders Ease The Throttle On Car Loans,0.0,0.0,neu
+Hiring Outlook Is Bleak For Banking Professionals,-1.0,1.0,neg
+U.S. Banks: Too Big to Fail. Too Big to Save?,-0.166666666667,0.166666666667,neu
+Four at Four: Audio-Video Plug-Ins,0.0,0.0,neu
+With PNC Riding High, Some Wonder If Bank Can Stick to Turnaround Plan,0.16,0.54,pos
+To raise more capital, Citigroup is shoving aside its shareholders,0.5,0.5,pos
+Countrywide Reports Another RiseIn Overdue Loans,0.0,0.0,neu
+Armenian Genocide Resolution Advances Despite Obama Push,0.0,0.0,neu
+DJIA Extends Winning Streak to Four,0.5,0.75,pos
+Abu Dhabi's Oil Output Gets Tougher,0.0,0.0,neu
+Obama to Push NASA Plans,0.0,0.0,neu
+Media Giants Converge on Abu Dhabi,0.0,0.0,neu
+United Arab Emirates Joins Nuclear Club,0.0,0.0,neu
+FAA, NASA Clash Over Commercial Space Safety,0.0,0.0,neu
+Northrop Quits Pentagon Tanker Contest,0.0,0.0,neu
+Obama Details Effort to Double Exports Over Five Years,0.0,0.0,neu
+In Texas, a Feud Heats Up Between Wind Power and Natural Gas Power Plants,0.1,0.4,neu
+More Merchants ComplyingWith Visa's Security Rules,0.5,0.5,pos
+Corrections & Amplifications,0.0,0.0,neu
+Security-Software Industry's Miniboom,0.0,0.0,neu
+Making SureYour StoresGuard the Data,0.0,0.0,neu
+Counting More Than Clicks,0.5,0.5,pos
+'Curveball: Spies, Lies and the Con Man Who Caused a War',0.0,0.0,neu
+How Lawmaker Rebuilt Hometown on Earmarks,0.0,0.0,neu
+What's So Good About Badminton?,0.7,0.6,pos
+MasterCard'sShares Up 21%On Profit Gain,0.0,0.0,neu
+TJX Ruling Gives Banks a Breakthrough,0.0,0.0,neu
+Cable vs. Phone: Giants Escalate Fierce Turf War,0.0,0.0,neu
+In Risky Move, a New AT&TBets on Internet Technology,0.136363636364,0.454545454545,neu
+MCI Reached Profit in Quarter,0.0,0.0,neu
+BellSouth LaunchesFastest Web ServiceAmong Phone Firms,0.0,0.0,neu
+FCC Approves Verizon-MCI PactAnd SBC's Purchase of AT&T,0.0,0.0,neu
+SBC CompletesAT&T Purchase,Takes New Name,0.136363636364,0.454545454545,neu
+Angling for a Cellphone Upgrade,0.0,0.0,neu
+Alltel to Acquire Midwest Wireless For $1.08 Billion,0.0,0.0,neu
+How to Watch TV,0.0,0.0,neu
+Cable Companies See New Threat In FCC Shift on a la Carte Service,0.136363636364,0.454545454545,neu
+Alliance Boots Takes 12% in China's Nanjing Pharmaceutical,0.0,0.0,neu
+Video: Deal Journal's Winners and Losers: Marissa Mayer and...?,-0.2,0.2,neu
+KKR Makes Money Back on Alliance Boots Sale,0.0,0.0,neu
+Walgreen-Alliance Boots: KKR Makes Back its Money,0.0,0.0,neu
+Walgreens-Alliance Boots Merger Poses Tech Challenges,0.0,0.0,neu
+Analysts Blasting Walgreen-Alliance Boots Deal as Shares Fall,0.0,0.0,neu
+Alliance Boots Deal Biggest in Walgreen's History,0.0,0.0,neu
+Walgreen to Spend $6.7 Billion on Alliance Boots Stake,0.0,0.0,neu
+Video: Walgreen Buys Alliance Boots Stake for $6.7 Billion,0.0,0.0,neu
+A.M. Vitals: Untreatable TB Strain in India,0.0,0.0,neu
+U.S. to Sell Wells Fargo Warrants,0.0,0.0,neu
+U.S. Gains $840.4 Million From Wells Fargo Warrants,0.0,0.0,neu
+Wells Fargo, Bank of America: Money Flow Leaders (WFC, BAC),0.0,0.0,neu
+Wells Fargo CEO John Stumpf Discusses Charitable Giving in San Francisco,0.6,0.8,pos
+Best on the Street Stock Analysts: Business & Industrial Services,1.0,0.3,neu
+Diminishing Return for Taxpayers on Citi Stake,0.0,0.0,neu
+When Mortgage Relief Is a Band-Aid,0.0,0.0,neu
+Property Report: Tribal-Casino Loans Tested by Ruling,0.0,0.0,neu
+Chicago Landmark Teeters,0.0,0.0,neu
+Overhaul Puts Bank Ratings at Risk,0.0,0.0,neu
+The Dark Side Of 'Green' Bulbs,-0.175,0.35,neu
+Defeatist Double Standard,0.0,0.0,neu
+Wal-Mart Sneezes,China Catches Cold,-0.6,1.0,neg
+Roehm AccusesWal-Mart BrassOf Ethics Lapses,0.0,0.0,neu
+Fashion Faux Pas Hurts Wal-Mart,0.0,0.0,neu
+Wal-Mart Chief BoughtRing From Firm's Vendor,-0.2,0.4,neu
+Wal-Mart Net Rises As Weakness in U.S. Persists,0.0,0.0,neu
+Wal-Mart Sales DeclineIs Worst in 28 Years,-1.0,1.0,neg
+Dell to Rely Less on Direct Sales,-0.0333333333333,0.233333333333,neu
+Wal-Mart Weighs Tie-Up,0.0,0.0,neu
+Exxon Adopts Majority VoteFor Uncontested Directors,0.0,0.0,neu
+Results at Exxon,Shell May AugurGrowth Slowdown,0.0,0.0,neu
+Exxon, China Reach Tentative Deal on Russian Gas,0.0,0.0,neu
+MarketBeat: Broad and Deep Advance,0.03125,0.35625,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Oil News Roundup,0.0,0.0,neu
+Indonesia Renews BidTo Lure Foreign Investors,-0.125,0.125,neu
+Chinese Oil Companies CloseValue Gap With Overseas Rivals,0.0,0.0,neu

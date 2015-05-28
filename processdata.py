@@ -48,7 +48,7 @@ def buildpipeline(keyword):
 def countkeyword(filename, resultpath):
     client = pymongo.MongoClient('localhost', 27017)
     mongo = client['pycrawler']['wsj']
-    keywords = loadkeywords(filename)
+    keywords = loadbyline(filename)
     for each in keywords:
         print('Processing '+each)
         cursor = mongo.aggregate(buildpipeline(each))
@@ -63,7 +63,7 @@ def countkeyword(filename, resultpath):
 
 
 def cleantitle(filename):
-    words = loadkeywords(filename)
+    words = loadbyline(filename)
     for word in words:
         query = {'datenum': {'$gte': 20050101, '$lte': 20150430}, 'keyword': word}
         articles = Article.find(Article, query)
@@ -81,7 +81,7 @@ def cleantitle(filename):
 
 
 def extracttitle(filename, resultpath, limit):
-    words = loadkeywords(filename)
+    words = loadbyline(filename)
     outfile = filename if '/' not in filename else filename.split('/')[-1]
     outfile = outfile if '.' not in outfile else outfile.split('.')[0]
     for word in words:

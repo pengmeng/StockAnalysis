@@ -1,0 +1,1001 @@
+title,p_pos,p_neg,classification
+At Apple's Grand Central Store, iPhones Aren't the Only Draw,0.819224923239,0.180775076761,pos
+Video: Apple Moves into Television,0.538983031487,0.461016968513,pos
+Apple Moves Forward With TV Plans,0.616986367416,0.383013632584,pos
+Apple Softens Stance to Lure Mobile Ads,0.929559719613,0.0704402803867,pos
+App Developers Skirt Apple's Limits With Work-Arounds,0.413498007968,0.586501992032,neg
+The Week Ahead: Apple-HTC Smartphone Suit Moves Toward Ruling in U.S.,0.822697606061,0.177302393939,pos
+Top Stories of 2011: All Apple All the Time,0.716308607873,0.283691392127,pos
+Android Faces Setback in iPhone Battle,0.772693529096,0.227306470904,pos
+Judge Rejects Apple Request to Ban Galaxy Sales in U.S.,0.85327987946,0.14672012054,pos
+Steve Jobs Statue Unveiled in Budapest,0.801054271266,0.198945728734,pos
+Shire Profit Surges Thanks to AbbVie Breakup Fee,0.775705645161,0.224294354839,pos
+Amgen Biosimilar Rheumatoid Arthritis Therapy Shows Positive Results,0.362317864441,0.637682135559,neg
+Stocks to Watch: Office Depot, General Motors, Ralph Lauren,0.724431218988,0.275568781012,pos
+Gilead Sciences Down on Discounting News,0.855914373709,0.144085626291,pos
+Merck Sales Fall on Stronger Dollar, Patent Expirations,0.598802890865,0.401197109135,pos
+Gilead Sciences Earnings: What to Watch,0.877769749518,0.122230250482,pos
+Hepatitis Drugs Lift Gilead Sciences's Results,0.923624550733,0.0763754492673,pos
+Mylan to Distribute Gilead's Hepatitis C Drugs in India,0.928571428571,0.0714285714286,pos
+Pfizer to Buy Hospira for $16 Billion,0.645736760415,0.354263239585,pos
+Paulson's Fund Adds to Its Energy Holdings,0.633794847937,0.366205152063,pos
+Abbott Laboratories, Intel: Money Flow Leaders (ABT, INTC),0.638630841789,0.361369158211,pos
+Abbott to Pay $184 Million In Tricor Suits,0.165232131737,0.834767868263,neg
+FDA Tests Find Melamine Traces in Baby Formula,0.383410381635,0.616589618365,neg
+FDA to Allow Trace Levels of Melamine in Baby Formula,0.524489924441,0.475510075559,pos
+Investors Lick Wounds From Dividend Cuts,0.172518330405,0.827481669595,neg
+Drug Firms Target Newly Rich Abroad,0.756938198071,0.243061801929,pos
+Medtronics Posts Lower Profit,0.725,0.275,pos
+Abbott Posts 34% Rise in Net On Humira's Strong Growth,0.614385927556,0.385614072444,pos
+Abbott's Drug-Coated Stent Is Approved,0.166666666667,0.833333333333,neg
+Traders' Moves Show Hopes For Rebound in Drug Stocks,0.935027066359,0.064972933641,pos
+Consultant LetsClients Use 'Gut'To Set Final Fee,0.461462073877,0.538537926123,neg
+Capgemini Alters U.S. Plans,0.880057803468,0.119942196532,pos
+Next Up on Fox: AdsThat Can Change Pitch,0.628909229699,0.371090770301,pos
+Accenture Hires New DirectorFor Global Outsourcing Unit,0.734041841116,0.265958158884,pos
+Big Deals Are Back,0.567760479597,0.432239520403,pos
+SGX's Profit Nearly Triples,0.777272727273,0.222727272727,pos
+BT Grants $127 Million ExtensionTo Accenture's Training Contract,0.566758010118,0.433241989882,pos
+China UndertakesFinancial Overhaul,0.350746268657,0.649253731343,neg
+Mining Giants Are Forced to Lessen Global Ambitions,0.799931277203,0.200068722797,pos
+Dated and Confused,0.517441860465,0.482558139535,pos
+Stock Pickers OfferBest Bets for 2005,0.418168701357,0.581831298643,neg
+Shell, Bechtel SetShortlist of BuyersFor Power Venture,0.70853960396,0.29146039604,pos
+The Case for Boredom,0.40046912963,0.59953087037,neg
+Morgan Mourns,0.530303030303,0.469696969697,pos
+Americans DonateIn Ways Old and NewTo Disaster's Victims,0.676706358047,0.323293641953,pos
+UPS Restructures Airbus Plane Order,0.565246898706,0.434753101294,pos
+Tax Cut, Shareholder PressureStoke Surge in Stock Dividends,0.666716121908,0.333283878092,pos
+Firms Begin to Offer EmployeesInsurance Against Identity Theft,0.287264545473,0.712735454527,neg
+AIG Boosts Dividend Nearly 67%,0.777272727273,0.222727272727,pos
+Accidents Rise in Steel Sector,Sparking Closer Look at Safety,0.943682823304,0.0563171766956,pos
+Allstate Launches Roadside Assistance With a Twist,0.434846472136,0.565153527864,neg
+CEO Council Members,0.760948905109,0.239051094891,pos
+How to Create Sustainable Jobs: WSJ CEO Council Recommendations,0.931887976353,0.0681120236473,pos
+Options Report: Bears Unswayed by Sony and Sherwin-Williams Gains,0.569277108434,0.430722891566,pos
+Sonnenschein, Denton Wilde to Merge,0.875,0.125,pos
+Insurers Are in Better Shape To Handle Storm Season,0.44382308078,0.55617691922,neg
+Noted . . .,0.547619047619,0.452380952381,pos
+Housing Boom's Dark Side,0.888455538222,0.111544461778,pos
+Insuring a Teen Driver for Less,0.404247587002,0.595752412998,neg
+The Gulf Coast, Still Wrecked,Grapples With Insurance Suits,0.913215451593,0.0867845484067,pos
+Amgen Curbs Its Projection for Revenue,0.929115647786,0.0708843522144,pos
+Companies Seek Shareholder Input on Pay Practices,0.845404216593,0.154595783407,pos
+Abbott Profit Rises, but Humira Falls Short,0.661400121934,0.338599878066,pos
+U.S. Drug Market Faces Down Year,0.717110971084,0.282889028916,pos
+Wyeth's Flat Earnings Top Expectations as Lower Costs Offset Weak Sales,0.420574761626,0.579425238374,neg
+Amgen's Outlook Brightens,0.558823529412,0.441176470588,pos
+Amgen Shows Little Growth,0.687618359509,0.312381640491,pos
+Amgen's Enbrel Records Subpoenaed in Inquiry,0.558823529412,0.441176470588,pos
+FDA Reviews New Amgen, J&J Data,0.469629723561,0.530370276439,neg
+Noted ...,0.547619047619,0.452380952381,pos
+What Carl Bernstein Told Bob Woodward About Jeff Bezos Buying the Washington Post,0.700999184945,0.299000815055,pos
+Amazon.com Set Move Lower,0.481024331433,0.518975668567,neg
+Mark Zuckerberg's Book Club Sets Sales Fire Under 'The End of Power',0.67788973646,0.32211026354,pos
+What Does It Cost Amazon.com to Go Dark?,0.553337995513,0.446662004487,pos
+Netflix vs. Amazon.com: Streaming Service Showdown?,0.525559105431,0.474440894569,pos
+Video: Target's New Look: A Bit Like Amazon.com,0.427599285659,0.572400714341,neg
+7 Movies to Stream for Any Stage of Romance,0.459362010061,0.540637989939,neg
+Video: Can Flipkart.com Be the Amazon.com of India?,0.890937989901,0.109062010099,pos
+After Leaving Amazon, Laurence Kirshbaum Joins Waxman Leavell Literary Agency,0.799739693371,0.200260306629,pos
+Will Amazon's Drones Really Deliver? (Cartoon),0.140515847503,0.859484152497,neg
+Unocal Becomes a Hot Property,0.465854582176,0.534145417824,neg
+Court's Big Finish,0.720854289705,0.279145710295,pos
+Selling Green in Bush Backyard,0.30572708924,0.69427291076,neg
+Corrections & Amplifications,0.5,0.5,pos
+Nasdaq Gains Little in NYSE Fight,0.76505654586,0.23494345414,pos
+White House May Tap Oil Reserves,0.769438442417,0.230561557583,pos
+Canada Regulators Approve Export Permits for LNG Proposals,0.432375309273,0.567624690727,neg
+An Icy Wind Wreaks Havoc on Texas Oil Fields,0.479594434074,0.520405565926,neg
+Cold Snap Crimps Texas Oil Output,0.823303899538,0.176696100462,pos
+Grammy Nominations 2014: Jay Z Leads Field (Complete List),0.756124106729,0.243875893271,pos
+CEOs See Some Light After a Dismal 2009,0.553933267198,0.446066732802,pos
+Gulf Oil Spill Draws Criminal Probe,0.928302433372,0.071697566628,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Tullow: Ghana Test Fails to Find Oil,0.203942375338,0.796057624662,neg
+A Smidgeon of Good News for Ailing BP,0.15765787446,0.84234212554,neg
+Anadarko, Kerr-McGee Statements,0.575,0.425,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Warren Buffett, Unplugged,0.351851851852,0.648148148148,neg
+Credit-Card Firms Go for Small,0.321532155165,0.678467844835,neg
+Reborn AT&T MakesA Subdued Comeback,0.669255490091,0.330744509909,pos
+'One Throat to Choke',0.522727272727,0.477272727273,pos
+TV On-DemandMay Make AdsMore Targeted,0.368118424272,0.631881575728,neg
+Moving Ahead ... but Slowly,0.783409241171,0.216590758829,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+Serena SoftwareTo Be AcquiredFor $1.2 Billion,0.1875,0.8125,neg
+Employer, State Support StallsFor Mothers Who Nurse at Work,0.836796998938,0.163203001062,pos
+In Year of Disasters,Experts Bring OrderTo Chaos of Relief,0.686252380827,0.313747619173,pos
+Bet on Huge Plane Trips Up Airbus,0.548380398671,0.451619601329,pos
+Piloting Boeing's New Course,0.514334564893,0.485665435107,pos
+Boeing to Record Up to $1.1 BillionIn Charges on Jet Delays, U.S. Pact,0.572433485034,0.427566514966,pos
+Can Boeing and Lockheed Work Together?,0.572533637229,0.427466362771,pos
+FAA Ruling on Long-Haul RoutesWould Boost Boeing's Designs,0.744845360825,0.255154639175,pos
+Analysts: Airbus Delays MayHarm Management's Rep,0.970588235294,0.0294117647059,pos
+Boeing ReportsOver $5.8 BillionIn Week's Orders,0.60775862069,0.39224137931,pos
+Boeing Weighs Sale or ClosureOf Connexion Internet Venture,0.775983146067,0.224016853933,pos
+Boeing Announces ConnexionMay Be Sold or Shut Down,0.726854110759,0.273145889241,pos
+Cathay OrdersSix Freighter JetsFrom Boeing,0.833333333333,0.166666666667,pos
+Bank of America Sets Card Venture,0.802667977552,0.197332022448,pos
+Bank of America Plans to CutFees for Online Stock Trading,0.981984379767,0.018015620233,pos
+Insurers, Banks Clash Over ClaimsFor Enron, WorldCom Settlements,0.693907474311,0.306092525689,pos
+Temasek back in China bank,0.638209645844,0.361790354156,pos
+GMAC Will Sell Off Auto Loans,0.54567130839,0.45432869161,pos
+Beijing defends stake sales,0.881201044386,0.118798955614,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+J.P. Morgan to ExpandReach of Card Business,0.504881672503,0.495118327497,pos
+BBVA extends its reach into U.S.,0.729180190056,0.270819809944,pos
+GMAC Auction Won't Be Simple,0.417775665399,0.582224334601,neg
+Stronger Dollar Poses Profit Risks,0.871157323689,0.128842676311,pos
+FDA Seizes Contaminated Heparin,0.625,0.375,pos
+Drug Makers Disclose Value of Samples,0.637402602668,0.362597397332,pos
+Noted ...,0.547619047619,0.452380952381,pos
+U.S. Awards PactsFor DevelopmentOf Flu Vaccines,0.39552238806,0.60447761194,neg
+Jittery Companies Stash Cash,0.541237113402,0.458762886598,pos
+Vaccine Makers Struggle to Speed Output,0.678775666723,0.321224333277,pos
+Baxter to Replace or Pay Refunds on Infusion Pumps,0.738247122452,0.261752877548,pos
+Baxter's Profit Drops 8.9%,0.735294117647,0.264705882353,pos
+iShares Russell 2000, Baxter International: Money Flow Leaders (IWM, BAX),0.862454300352,0.137545699648,pos
+Biogen's Stock JumpsOn Strong Profit Forecast,0.947227419629,0.0527725803708,pos
+Apple Falls as Biogen, Merck Rise,0.58469658827,0.41530341173,pos
+New Plea for PDL BioPharma to Sell,0.422296152985,0.577703847015,neg
+For Long-Term Investors,Don't Sweat the Volatility,0.443989005595,0.556010994405,neg
+Experimental Lupus Drug Fails,0.308962808963,0.691037191037,neg
+Biogen Chairman RastetterTo Retire at End of Year,0.711922389618,0.288077610382,pos
+As Biotech Drug Prices Surge,U.S. Is Hunting for a Solution,0.873820977182,0.126179022818,pos
+MS Patients WarnedOn Use of Cancer Drug,0.270858136079,0.729141863921,neg
+Biogen Idec Says Early Testing May Halt Deaths Tied to Tysabri,0.389908869069,0.610091130931,neg
+Genentech to Buy Biogen Plant,0.3121875,0.6878125,neg
+The Other Women to Watch,0.566577016569,0.433422983431,pos
+New York FedReports Progress On Derivatives,0.601192966725,0.398807033275,pos
+New York Fed Taps J.P. Morgan CEO,0.819786036436,0.180213963564,pos
+Once-Battered Mizuho FinancialHopes a U.S. Listing Helps It Grow,0.328179696616,0.671820303384,neg
+New York Fed TapsEconomist DudleyAs Markets Chief,0.536833324279,0.463166675721,pos
+Citigroup's Risky Win in China,0.790333062551,0.209666937449,pos
+In China, Citigroup EncountersHurdles to Retail-Banking Plans,0.629464285714,0.370535714286,pos
+Fed's Kos Will Leave,Was Link to Markets,0.703418226957,0.296581773043,pos
+Morgan Stanley Buys Group Stake,0.683599024684,0.316400975316,pos
+Noted . . .,0.547619047619,0.452380952381,pos
+Why a LawmanWields AuthorityOver Drug Maker,0.41992832342,0.58007167658,neg
+Bristol-MyersTo Pay $89 MillionTo Settle Lawsuits,0.615580448065,0.384419551935,pos
+Bristol-Myers Ex-OfficialsAre Indicted,0.5,0.5,pos
+Text of Bristol-Myers Statement,0.619205298013,0.380794701987,pos
+Bristol-Myers Moves Aren't Radical,0.796125112122,0.203874887878,pos
+Bristol-Myers Expected to Pay$300 Million to Settle Probe,0.507368003212,0.492631996788,pos
+FDA Tentatively ApprovesGeneric Version of Sustiva,0.85960960961,0.14039039039,pos
+Bulls, Bears Debate ImClone,0.946153846154,0.0538461538462,pos
+Drug Makers Show ProgressOn New Diabetes Medications,0.439565013312,0.560434986688,neg
+Brazil IssuesAIDS-Drug Ultimatum,0.12037037037,0.87962962963,neg
+Berkshire Hathaway Bought $18 Million In Stock,0.185788452761,0.814211547239,neg
+Berkshire Hathaway Buys New Stake in CVS Caremark, DirecTV, Intel,0.265358325094,0.734641674906,neg
+Berkshire Hathaway Earnings Quality Worries Analyst,0.13321799308,0.86678200692,neg
+Berkshire Didn't Double Its Stake in Verisk After All,0.183912302123,0.816087697877,neg
+Berkshire Net Falls, but Operating Profit Gains 37%,0.787466998257,0.212533001743,pos
+Is Warren Buffett Letting the Analyst Foxes Into the Henhouse?,0.654363736782,0.345636263218,pos
+Tanking Jefferies Stock Drags Down Mini-Berkshire,0.335801269642,0.664198730358,neg
+Berkshire: Too Big to Thrive?,0.332706390694,0.667293609306,neg
+Berkshire's NetJets Sues IRS Over Tax Bill,0.183261585495,0.816738414505,neg
+Buffett to Buy Omaha World-Herald,0.824257425743,0.175742574257,pos
+Citigroup Board BlocksWeill's Bid to Step Down Early,0.57018562952,0.42981437048,pos
+Sanford Weill tenta deixar o Citigroup; conselho nega,0.5,0.5,pos
+Weill Ends Suspense:He'll Stay at CitigroupAnd Not Leave Early,0.484770281685,0.515229718315,neg
+Citigroup's No. 2Will Leave, SeekA Firm to Lead,0.642563447934,0.357436552066,pos
+Why Legg Mason Is GettingOut of the Brokerage Business,0.337498433372,0.662501566628,neg
+Citigroup, Bank of America FeelPinch of Interest-Rate Trends,0.714788732394,0.285211267606,pos
+Weill's Perks Create Obstacles,0.280777677303,0.719222322697,neg
+Dois maiores bancos dos EUA decepcionam mercado,0.5,0.5,pos
+Supermarket Savvy:Insurers See SuccessIn Banking Sector,0.916321739668,0.0836782603324,pos
+Philadelphia ExchangeIs Courting Investors,0.585106382979,0.414893617021,pos
+Housing Pinches Caterpillar,0.921052631579,0.0789473684211,pos
+Apple Grabs Focus In Mixed Trade Before Earnings,0.947165508126,0.0528344918736,pos
+The 'Six Sigma' Factor for Home Depot,0.535095254675,0.464904745325,pos
+Bush to Deliver SpeechOn State of the Economy,0.513407718319,0.486592281681,pos
+Thermal Dynamics,0.325,0.675,neg
+Stocks Rise Ahead of Fed,0.737388724036,0.262611275964,pos
+How to Assess 2007's M&A Activity,0.197362539115,0.802637460885,neg
+In Trade Talks,Western Farmers Hold Their Ground,0.707280011403,0.292719988597,pos
+Downgrades Chip Away at Nasdaq,0.783416911638,0.216583088362,pos
+After Iraq Votes, More Dissension,0.760376243234,0.239623756766,pos
+Colgate Net Rises Despite Charges,0.866164944163,0.133835055837,pos
+Procter & Gamble,Colgate-PalmolivePost Higher Profit,0.742760617761,0.257239382239,pos
+Financial ChiefOf TIAA-CREFResigns Her Post,0.469080019845,0.530919980155,neg
+Playing It SafeMay Not Be BestIn This Downturn,0.271236940607,0.728763059393,neg
+Y&R Chief's First Test:Rebuilding His Own Brand,0.227629619669,0.772370380331,neg
+Layoffs Seem to Conflict With TaxBreak Meant to Propel Job Growth,0.715272822633,0.284727177367,pos
+Former ExecutiveCould Face ScrutinyIn Berkshire Probe,0.201652523448,0.798347476552,neg
+China's M.B.A. ProgramsAttract the Business Elite,0.797193562193,0.202806437807,pos
+'Call to Action' Ads Give Clients Results They Can Measure,0.185910045401,0.814089954599,neg
+Hedge Funds Find CureFor Poison Pill: Teamwork,0.0412396311075,0.958760368892,neg
+Other Sources: Tuesday's Press Roundup,0.428747163934,0.571252836066,neg
+Comcast, UnitedHealth Group: Money Flow Leaders (CMCSA, UNH),0.850994512875,0.149005487125,pos
+CEOs See Some Light After a Dismal 2009,0.553933267198,0.446066732802,pos
+Sprint Seeks Control of Clearwire,0.317597944766,0.682402055234,neg
+The Morning Ledger: J.P. Morgan CFO Stepping Down,0.87391629334,0.12608370666,pos
+Political Diary: California's Corporate-Labor Alliance,0.903883495146,0.0961165048544,pos
+Recommended Reading,0.759987893462,0.240012106538,pos
+Hedge Fund Paid Summers $5.2 Million in Past Year,0.248889715839,0.751110284161,neg
+Video: Find Out Where Corporate Jets are Really Going,0.149532096875,0.850467903125,neg
+Rachel Maddow's Bad Company,0.320746395407,0.679253604593,neg
+ING to Sell Capital One Stake for $3 Billion,0.477832070354,0.522167929646,neg
+Olympus, Sony Close to Agreement on Capital Injection,0.685918705931,0.314081294069,pos
+Olympus Nears Decision on Sony Investment,0.608369098712,0.391630901288,pos
+The Methodology Behind 'The Next Big Thing',0.242357654507,0.757642345493,neg
+Ally Bank's New Ads Aim at Big Banks, Robots,0.460064710151,0.539935289849,neg
+Discover Settles Inquiry of Credit-Protection Products,0.370611551529,0.629388448471,neg
+Road to CEO Post Goes Through CFO at Some Big Firms,0.137397865922,0.862602134078,neg
+Friday IPOs Fail to Price as Thursday's Rally Doesn't Carry,0.770881100481,0.229118899519,pos
+L.A. Story: Koreatown's Banks Star,0.582381226971,0.417618773029,pos
+A Bank Zombie Lurks in Little Saigon,0.79510137635,0.20489862365,pos
+ConocoPhillips to SellChinese Onshore Block,0.816666666667,0.183333333333,pos
+ConocoPhillips's $10M Carbon Offset,0.277777777778,0.722222222222,neg
+ADM, Conoco Join ForcesTo Make 'Biocrude' Product,0.407393827483,0.592606172517,neg
+Smaller Oil Firms FuelRevival of U.K. North Sea,0.537836079792,0.462163920208,pos
+Kazakh Energy Plan Seen Aimed at Kashagan,0.487314494901,0.512685505099,neg
+Exxon Is FirstTo Go Legal RouteIn Venezuela Dispute,0.78,0.22,pos
+Eni Says Kashagan TalksAre 'Open, Constructive',0.751700680272,0.248299319728,pos
+To Gain Exposure to Gold,Traders Look to Mine Options,0.55966276457,0.44033723543,pos
+Mutual-Fund Managers Ready to Pounce,0.543269230769,0.456730769231,pos
+Stocks Steady as Oil Gains Again,0.917836081099,0.0821639189015,pos
+Costco Cuts View, Citing Markdowns On Pricey Goods,0.211487136942,0.788512863058,neg
+Micros, Lam Research Increase;Costco Slides on Earnings Miss,0.927784136146,0.0722158638535,pos
+Wine Sales ThriveAs Old BarriersStart to Crumble,0.176183844011,0.823816155989,neg
+Consumer Demand and GrowthIn Laptops Leave Dell Behind,0.441746231241,0.558253768759,neg
+Stocks Edge Higher in Thin Trading,0.860604077884,0.139395922116,pos
+MarketBeat: Sweet Breadth,0.625,0.375,pos
+MarketBeat: Gold Mergers Cap a Good August,0.245447414404,0.754552585596,neg
+Metal Maneuvers,0.628027681661,0.371972318339,pos
+GDP Change-Ups,0.5,0.5,pos
+Commercial BoomGathers Steam,0.436339522546,0.563660477454,neg
+Cisco Loses Patent Argument,0.369884910486,0.630115089514,neg
+Cisco Hints of Upturn as Profits Rise,0.0990498454114,0.900950154589,neg
+The Morning Download: Security Concerns Thwarting Innovation,0.0987920873494,0.901207912651,neg
+Unified Communications Is Gaining Traction Among CIOs and IT Departments,0.992201039861,0.00779896013865,pos
+Upside: Apple Isn't the Only Company With a Cash Hoard,0.458367432025,0.541632567975,neg
+The Morning Download: Utilities to Address 'Significant Weaknesses' in Cybersecurity,0.861327131403,0.138672868597,pos
+The Morning Download: Big Data Faces Organizational Hurdles,0.391676206561,0.608323793439,neg
+Oracle to Buy Acme Packet for $1.7 Billion,0.845399374522,0.154600625478,pos
+The Morning Download: How Dell's Deal Helps Customers,0.937111114841,0.0628888851592,pos
+Dell Buyout Plan Includes Bringing Cash to U.S.,0.770268988763,0.229731011237,pos
+Judge Delays Caremark Vote,0.49531066823,0.50468933177,neg
+ISS Urges Caremark HoldersTo Vote Down Bid by CVS,0.379598662207,0.620401337793,neg
+Judge Refuses to Halt DealBetween Caremark-CVS,0.738406473701,0.261593526299,pos
+Express Scripts' ResponseTo CVS Raising Dividend,0.690129736342,0.309870263658,pos
+Investment Adviser RecommendsCaremark Holders Reject CVS Deal,0.622353149641,0.377646850359,pos
+Express Scripts' DelayIn Caremark Bid Aids CVS,0.814494680851,0.185505319149,pos
+Healthy Sales, Margins Help CVS Boost Net,0.914964425063,0.0850355749369,pos
+Is $100 Billion LBO Next?,0.546254256527,0.453745743473,pos
+Express Scripts DuoKeeps Stock and Faith,0.659084061464,0.340915938536,pos
+As Rivals Tussle, Medco Sees Gains,0.590190915076,0.409809084924,pos
+Jury to Decide: Is Chevron Liable for Killings in Nigeria?,0.409382562016,0.590617437984,neg
+Chevron's Net Income Soars,0.807692307692,0.192307692308,pos
+Tiffany, Caterpillar, GE in a Ricochet Rise,0.182238193018,0.817761806982,neg
+As Prices Slide, Oil Firms Make Tough Calls and Conserve Cash,0.239988320151,0.760011679849,neg
+Total Submits Plan for China Gas Project,0.541257047836,0.458742952164,pos
+Offshore Rig Workers Call the Shots,0.627956114904,0.372043885096,pos
+Dow Industrials Drop 445 Points,0.48870907038,0.51129092962,neg
+U.S. stocks record gains, helped by H-P's outlook,0.964608433735,0.0353915662651,pos
+Nasdaq at 5-Year Low; Best Buy Fears Worst,0.41576866682,0.58423133318,neg
+Dow Rallies By 248.02, But Declines 4.1% on Week,0.726244117616,0.273755882384,pos
+Review of TeflonFlags More RiskThan EPA Report,0.151959775629,0.848040224371,neg
+Donaldson's Last Hurrah,0.192824251727,0.807175748273,neg
+Blue Chips Slide on Oil Spurt,0.832168746347,0.167831253653,pos
+Next Dream for Venter: CreateEntire Set of Genes From Scratch,0.361387688325,0.638612311675,neg
+Pistons Outlast the Heat at Home,But Now the Spurs Await Them,0.789269370873,0.210730629127,pos
+Let's Get Nanotech Right,0.484246864042,0.515753135958,neg
+Pollution Violators in ChinaAre Cited by Nonprofit Group,0.264204545455,0.735795454545,neg
+Is Dow Chemical a 'Buy,'Or Would a Buyout Be Better?,0.2556046811,0.7443953189,neg
+Big Corn Crop May Not Curb Prices,0.840770051348,0.159229948652,pos
+Stocks Slip on Weak Housing Data,0.982432805914,0.0175671940855,pos
+Text of Disney Press ReleaseNaming Iger as New CEO,0.602123747023,0.397876252977,pos
+Disney Turns to Insider IgerTo Take CEO Reins From Eisner,0.409864793703,0.590135206297,neg
+Letter to Disney Directors,0.571626109226,0.428373890774,pos
+How Eisner Handles Transition Is Crucial For Walt Disney Co.,0.908765388834,0.0912346111659,pos
+As Weinsteins Exit Disney,A Murky Script,0.16137148799,0.83862851201,neg
+Disney Cuts Strategic-Planning Unit,0.357921083628,0.642078916372,neg
+Iger Faces a BumpyMagic Kingdom Ride,0.856614990969,0.143385009031,pos
+EBay CEO Whitman Withdraws As Candidate for Disney Top Spot,0.227218374656,0.772781625344,neg
+Disney DissidentsAttack Eisner RoleIn Search for CEO,0.812983346305,0.187016653695,pos
+Lehman Brothers, Walt DisneyGain Despite Oil-Price Nerves,0.339071805064,0.660928194936,neg
+Book review: Make It in America,0.636709115854,0.363290884146,pos
+The Daily Start-Up: Amgen Offers A Cool Billion,0.568496313391,0.431503686609,pos
+U.S. Manufacturing Picks Up,0.252808988764,0.747191011236,neg
+China Spends $2.4 Billion...On Pesticides?,0.813550939664,0.186449060336,pos
+'Bhopali' Documentary Probes 1984 Industrial Disaster,0.593670599611,0.406329400389,pos
+Video: Manufacturing in the U.S. Makes a Comeback as More Jobs Are Created than Lost - News Hub,0.681287968417,0.318712031583,pos
+Qatar Discusses LNG Supply With Sinopec,0.52477919529,0.475220804711,pos
+Video: Stocks Start Year in Rally Mode - News Hub,0.867247814305,0.132752185695,pos
+In 2010, Growth Topped Gloom for Stocks,0.924850571425,0.0751494285755,pos
+On Tap Wednesday: South Korea GDP, Japan Trade Data,0.912717528122,0.0872824718776,pos
+Storm's DamageTo Energy PlantsAppears Limited,0.575696340138,0.424303659862,pos
+Reckoning Katrina's Reach,0.665,0.335,pos
+Energy Companies, Airlines,Retailers Report Closures,0.385841836735,0.614158163265,neg
+Oil, Gas Production on Gulf Coast,0.946463177105,0.0535368228954,pos
+Higher Energy Prices Boost Devon's Profit,0.973969891228,0.0260301087723,pos
+ETF Aims to Profit From $4 Gas,0.92096920367,0.0790307963299,pos
+Crude's Price Surge Attracts Oil-Field Thieves,0.865384615385,0.134615384615,pos
+These 5 Companies Show Us the Money,0.608550109917,0.391449890083,pos
+Amazon.com Slides 10%;Google Falls,0.635511191773,0.364488808227,pos
+Stock Picks for 2006: Twelve Big Names,0.185931310076,0.814068689924,neg
+Ebay Inc.,0.192307692308,0.807692307692,neg
+Auctions Remain a Challenge for eBay,0.537638349333,0.462361650667,pos
+EBay Classified-Ad Site to Rival Craigslist,0.255016722408,0.744983277592,neg
+Nokia Puts eBay's Skype on Handsets,0.307174887892,0.692825112108,neg
+We Know What You OughtTo Be Watching This Summer,0.411247589335,0.588752410665,neg
+Mischief Unmanaged,0.625,0.375,pos
+More Small Firms Expand Abroad,0.595410413258,0.404589586742,pos
+Google Pays Price for Spending to Spur Growth,0.981269209529,0.0187307904708,pos
+Spectrum Sale May Open Market,0.923952344672,0.0760476553284,pos
+Avid Boarders Bypass Branded Gear,0.720338983051,0.279661016949,pos
+Video: Big Data and The Enterprise,0.201929425856,0.798070574144,neg
+Dublin Moves to Block Controversial Tax Gambit,0.435174989228,0.564825010772,neg
+How Many iPads in a Zettabyte?,0.559935208942,0.440064791058,pos
+Video: Find Out Where Corporate Jets are Really Going,0.149532096875,0.850467903125,neg
+Video: Are Large Stocks More Attractive Than Small?,0.683525290279,0.316474709721,pos
+Is Perry Like Reagan? Report Cards for Teachers, Hackathons Move to Mainstream,0.164128885281,0.835871114719,neg
+Bulls See Legs in Tech-Stock Rally,0.90304414003,0.0969558599696,pos
+Search Software GetsBoost From New Rules,0.686013547933,0.313986452067,pos
+Boss Talk: What Security Firm RSA Learned From Its Own Breach,0.277118527094,0.722881472906,neg
+Boss Talk: What RSA Learned From Its Security Breach,0.183509625611,0.816490374389,neg
+Emerson Electric&#8217;s Short-Out,0.276315789474,0.723684210526,neg
+Brewer Anheuser-Busch Uneasy as New Owner InBev Slashes Costs,0.586661894392,0.413338105608,pos
+The New Rules of Central Air,0.587514328588,0.412485671412,pos
+Heavy Machinery & Materials,0.27850877193,0.72149122807,neg
+Emerson Electric Co.,0.276315789474,0.723684210526,neg
+Chloride Rejects Offer By Emerson Electric,0.288639312358,0.711360687642,neg
+Noted ...,0.547619047619,0.452380952381,pos
+Sales Gains Lift Emerson Profit,0.72934016656,0.27065983344,pos
+Bad Week Weighs On U.S. Companies' Confidence,0.308668559981,0.691331440019,neg
+Investors Seek Signs of Pickup in Autos,0.119565217391,0.880434782609,neg
+TXU Buyout Proposal's Mixed Effect,0.486799176831,0.513200823169,neg
+Aquila Deal Bows to State Regulators,0.220757793393,0.779242206607,neg
+TXU, Dow ChemicalSurge on Down Day,0.550459009981,0.449540990019,pos
+Virgin Media's Flap With BSkyBCould Have a Long, Costly Run,0.972795600877,0.0272043991232,pos
+In TXU Deal, Texas Regulator Has Few Levers to Pull,0.233439230796,0.766560769204,neg
+The Bottom Line,0.380659434957,0.619340565043,neg
+Avon, MGIC Rise; Sands Declines,0.667293233083,0.332706766917,pos
+Overheard,0.5,0.5,pos
+Arbitrage Looks More and More Arbitrary,0.2829969062,0.7170030938,neg
+Reliant to Sell Retail Unit, Focus on Power Generation,0.614363713521,0.385636286479,pos
+Ford Motor Credit's OfferingOf Debt Gets Warm Reception,0.977839704214,0.0221602957863,pos
+U.S. Auto Sales Slumped 8% in May,0.597187175301,0.402812824699,pos
+Ford Plans Deeper Cuts as Sales Slip,0.955179710728,0.0448202892717,pos
+Ranking the Most-Reliable Cars,0.179972096329,0.820027903671,neg
+Ford to Pay Fine to Settle ChargesIt Didn't Disclose Investment Risk,0.888791978189,0.111208021811,pos
+Key Treasury Yield Falls Below 4%,0.968407019361,0.0315929806395,pos
+Ameritrade, E*Trade Gain;Ford Motor Drops on Outlook,0.911973880375,0.0880261196247,pos
+Ford Recalls 260,000 Vehicles,0.802529182879,0.197470817121,pos
+Ford Begins the ProcessOf Shedding Hertz Unit,0.644919813236,0.355080186764,pos
+Small InvestorsRethink Auto Bonds,0.534826241862,0.465173758138,pos
+Some Students Find ThemselvesIn Principal's Office Over Blogs,0.651878250526,0.348121749474,pos
+AOL Hopes to Steer Message-System FansTo Its Web-Site Ads,0.486724624628,0.513275375372,neg
+Where the Bets Are,0.286505902835,0.713494097165,neg
+Schools Use Web to Teach About Booze,0.606102718263,0.393897281737,pos
+Too Much Information?,0.497992678592,0.502007321408,neg
+Corrections & Amplifications,0.5,0.5,pos
+Friendster's 'Eww' Moment,0.494402985075,0.505597014925,neg
+Venture CapitalistsAre Betting BigOn Consumer Gadgets,0.607861060329,0.392138939671,pos
+Readers Spar OverSocial-Networking Sites,0.794117647059,0.205882352941,pos
+Facebook Plans Enhanced Ties to Outside Services,0.457989720315,0.542010279685,neg
+Protesters AttackFreeport's Office;Mine Stays Shut,0.488882326949,0.511117673051,neg
+Copper Falls on Options Selling,Report of Swelling Inventories,0.544312157345,0.455687842655,pos
+Freeport-McMoRan Posts $13.9 Billion Loss,0.619369369369,0.380630630631,pos
+Caterpillar, AmEx Fall While Barclays Surges,0.298889888458,0.701110111542,neg
+Financials Citi, BofA and MetLife Drop,0.481818181818,0.518181818182,neg
+Hot Stocks This Morning: Nokia, Alcatel-Lucent and Many More!,0.67094932893,0.32905067107,pos
+Gold, Silver Jumping Again Amid MENAJapanEuro Concerns,0.549728427851,0.450271572149,pos
+Dow Jumps Past 12100, Chartists Fret About S&P 500,0.269258667001,0.730741332999,neg
+Three Reasons Gold (and Silver) Are Jumping Higher,0.629158410156,0.370841589844,pos
+Dr. Copper Likes the Strong U.S. Economic Data,0.87870599317,0.12129400683,pos
+FedEx to RaiseRates by 5.9%,0.25,0.75,neg
+Tough Times Complicate the Case for Buying Super Bowl Ads,0.772994006528,0.227005993472,pos
+DHL Beats a Retreat From the U.S.,0.571298996028,0.428701003972,pos
+Companies Caught in India Drama,0.975405392803,0.0245946071974,pos
+CEOs Say Stimulus Top Priority,0.401874400204,0.598125599796,neg
+UPS Won't Forecast Holiday-Shipping Volumes,0.904825737265,0.0951742627346,pos
+DHL Retreats From U.S. Market,0.327294477734,0.672705522266,neg
+UPS Signs Global Deal With the European PGA,0.712698282712,0.287301717288,pos
+Video: CEO Council: How the U.S. Can Remain Competitive,0.903656901938,0.0963430980621,pos
+WSJ's CEO Council Coverage Begins,0.923398328691,0.0766016713092,pos
+Who Read What in 2014,0.464556333973,0.535443666027,neg
+'Glee' Star Jane Lynch's Emotional Goodbye to Cory Monteith,0.822975525382,0.177024474618,pos
+Bill O'Reilly's 'Killing Kennedy': Watch the Trailer For the Movie,0.660051159955,0.339948840045,pos
+Deals of the Day: Kinder Morgan, Chiquita, Carl Icahn and Lots of IPOs,0.572207187978,0.427792812022,pos
+Hedge Funds Flock to Apple,0.833860759494,0.166139240506,pos
+Smucker, Oracle, IBM Among Credit Suisse's 35 Firms Ripe for a Spinoff,0.83929048287,0.16070951713,pos
+Demi Lovato to Join 'Glee',0.27,0.73,neg
+Action Movie '2 Guns' Outdraws Competition at the Box Office,0.541488517918,0.458511482082,pos
+After Box Office Bombs, New Sony Pictures Exec Eyes the Bottom Line,0.266828207585,0.733171792415,neg
+'Dads': Group Calls Sitcom 'Racist', Fox Won't Reshoot,0.16160629842,0.83839370158,neg
+Defense-Industry Bosses Cash In,0.414473684211,0.585526315789,neg
+One Small Step for Drones,0.537368436206,0.462631563794,pos
+BAE Posts Huge Jump In Year's Profit,0.683870696523,0.316129303477,pos
+BAE's Success Is Put to the Test,0.546769590369,0.453230409631,pos
+Rumsfeld Lays Out DefenseFor Proposed Pentagon Budget,0.157919968157,0.842080031843,neg
+Bush's Defense BudgetPuts Off Cuts to Weapons,0.610597778962,0.389402221038,pos
+Military BudgetSpares WeaponsFrom Cutbacks,0.713709677419,0.286290322581,pos
+Icahn's Sound and FuryJust Aren't Enough,0.527781925737,0.472218074263,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+Congress Tackles Defense Budget,0.847514015957,0.152485984043,pos
+Exxon Mobil, General Electric: Money Flow Leaders (XOM, GE),0.840037535175,0.159962464825,pos
+Auto Program in Climate Bill Raises Trade Concerns,0.853196456685,0.146803543315,pos
+Bank of Ayudhya to Buy GE Units in Thailand,0.770120259019,0.229879740981,pos
+Business Owners Ache as CIT Scales Back,0.864952387942,0.135047612058,pos
+Silverman to Depart His Post at NBC,0.480490977077,0.519509022923,neg
+Activists Seek SEC Social-Report Mandate,0.7,0.3,pos
+TV Networks Fight Drug-Ad Measure,0.269271638331,0.730728361669,neg
+India Designates Sites for U.S. Nuclear Deals,0.971253000028,0.0287469999719,pos
+Potential Void Left by CIT Would Be Filled, With Time,0.23293559646,0.76706440354,neg
+Welch: 'No Such Thing as Work-Life Balance',0.759957132961,0.240042867039,pos
+Gilead Signs License PactsFor Generic HIV Drug,0.591949637543,0.408050362457,pos
+HIV Drug Clears a Safety Hurdle,0.988573127229,0.0114268727705,pos
+Law Firms Cooley Godward, Kronish Lieb Plan to Merge,0.675062248611,0.324937751389,pos
+Health,0.404761904762,0.595238095238,neg
+New Option for Rare Condition,0.788591743383,0.211408256617,pos
+New AIDS Pill Simplifies Treatment,0.67385371179,0.32614628821,pos
+FDA Clears Pill That CombinesThree Widely Used HIV Drugs,0.960739323321,0.0392606766789,pos
+Bond-Index Futures of the Future,0.332039933989,0.667960066011,neg
+Blog Roll -- Afternoon Edition,0.857523889934,0.142476110066,pos
+OPTIONS REPORT: Steady for Express Scripts, Dollar Tree?,0.542142382349,0.457857617651,pos
+General Motors Corp.,0.608843537415,0.391156462585,pos
+Avtovaz Will Make CarsWith Magna in Russia,0.942675614486,0.0573243855143,pos
+One System, Two Visions,0.643504571364,0.356495428636,pos
+General Motors Completes Test RunOf Two Hydrogen-Powered Vehicles,0.16141509212,0.83858490788,neg
+GM's Sharp Profit Drop PutsUrgency on Cost Cuts,0.756173025915,0.243826974085,pos
+Stocks Rise on Productivity Data,0.198922413793,0.801077586207,neg
+GMAC Swings to Loss,0.523097826087,0.476902173913,pos
+Incentives UnlikelyTo Rev April Car Sales,0.849644128114,0.150355871886,pos
+In Workshop of 'Wheaties' Makers,Engineer Crafted a Novel Undersea Vessel,0.401646451404,0.598353548596,neg
+GM's Labor Issues Cloud Revival,0.846643518519,0.153356481481,pos
+Yahoo, WPP Unveil Online Ad Partnership,0.941037735849,0.0589622641509,pos
+Google to Target BrandsIn Revenue Push,0.780050083472,0.219949916528,pos
+Google Net Soars on Web Ad Boom,0.693396226415,0.306603773585,pos
+Options Accounting Aids Google,0.65625,0.34375,pos
+In 'Click Fraud,'Web Outfits HaveA Costly Problem,0.878195250181,0.121804749819,pos
+Analysts React: Google's Earnings,0.922619047619,0.077380952381,pos
+Google Offers Web-Search Tracker,0.758823529412,0.241176470588,pos
+News Sites Turn to AdvertisementsOn Google, Yahoo to Boost Traffic,0.641244533763,0.358755466237,pos
+Anunciantes da internet enfrentam nova praga: a fraude do clique,0.758333333333,0.241666666667,pos
+Google Maps to Use Satellite Images,0.959963474994,0.0400365250057,pos
+Goldman Sachs Exits Fujita Investment in Japan,0.740343347639,0.259656652361,pos
+Goldman Sachs Raids Credit Suisse For New Aussie Trading Desk,0.613876360607,0.386123639393,pos
+Goldman Sachs: No QE3 At September Meeting,0.642123287671,0.357876712329,pos
+Goldman Sachs Reports 6 Days of Trading Losses,0.658622096906,0.341377903094,pos
+Goldman Sachs Managing Director Curtis Smith Departs,0.811413715366,0.188586284634,pos
+Oakland's Bad Deal And Goldman Sachs -- Letters to the Editor,0.599036233049,0.400963766951,pos
+In Social Services Experiment, Goldman Sachs Invests in City Jail Program,0.925863443648,0.0741365563516,pos
+U.S. Won't Pursue Goldman Charges,0.637488815986,0.362511184014,pos
+Video: U.S. Won't Seek Goldman Sachs Charges Related to Financial Crisis and Mortgage Fraud Accusations,0.795118923798,0.204881076202,pos
+Why Goldman Sachs and KKR Want Your Money,0.333659891536,0.666340108464,neg
+Halliburton's Profit Falls 61%,0.703931203931,0.296068796069,pos
+DJIA Can't Hold 10K; IBM Weighs,0.3125,0.6875,neg
+Michael Moore: A Love Story? Not So Much,0.495151967809,0.504848032191,neg
+Chamber Says 'No Thanks' to the Yes Men,0.799148235629,0.200851764371,pos
+Schlumberger Profit Drops 48%,0.735294117647,0.264705882353,pos
+To Combat Overseas Bribery, Authorities Make It Personal,0.801660919005,0.198339080995,pos
+KBR's Net Rises 65%,0.75,0.25,pos
+Changing Teams,0.698967889908,0.301032110092,pos
+Exxon Looks Close to Home,0.191275213485,0.808724786515,neg
+Oil Executives on a New Course,0.276018635095,0.723981364905,neg
+Home Depot Net Falls 66% As Store Growth Brakes,0.782828129137,0.217171870863,pos
+Home Depot Plans More Closings,0.555071847442,0.444928152558,pos
+Lowe's Expands on Home Depot's Pullback,0.874277456647,0.125722543353,pos
+The Difference Between Rivals,0.54836618147,0.45163381853,pos
+Home Depot Ex-Executive Is Charged With Fraud,0.744882240813,0.255117759187,pos
+Home Depot, Target and Financials Fall,0.566254236974,0.433745763026,pos
+Midday Macro: Staples, Home Depot Woe but Saks Surges,0.185234673651,0.814765326349,neg
+AMR, Home Depot And Hershey Gain,0.591082317073,0.408917682927,pos
+AmEx, Home Depot Rise on Strong Dollar,0.656597773257,0.343402226743,pos
+Home Depot Drops, While GM Rises 9.4%,0.724925229924,0.275074770076,pos
+Honeywell's Net Surges 22%On Strong Aerospace Growth,0.442707282631,0.557292717369,neg
+U.S. Defense Contractors PaintA Mixed Picture on Earnings,0.676209061781,0.323790938219,pos
+Caterpillar, Intel Rise on Profit Reports,0.91547277937,0.0845272206304,pos
+Blue Chips Succumb to Inflation,0.938058748404,0.0619412515964,pos
+A Perk Takes Off,0.546534831166,0.453465168834,pos
+Alcoa Is Flat Ahead of Earnings;Forest Labs, Siebel Take a Dive,0.672348523375,0.327651476625,pos
+Paging Goldilocks,0.5,0.5,pos
+Stocks Declined in First QuarterAmid Focus on Inflation, Rates,0.314272741644,0.685727258356,neg
+Honeywell, GE, AmEx Help PushDow Industrials to Record Close,0.312884621668,0.687115378332,neg
+GE Leads the FieldAs Industrials Hit High,0.606950444249,0.393049555751,pos
+McCain Sends Carly Fiorina To Meet With Clinton Backers,0.958056187765,0.0419438122349,pos
+H-P, EDS Settle Shareholder Lawsuit,0.265163297045,0.734836702955,neg
+Former H-P Executive Indicted in Email Case,0.922559105876,0.0774408941242,pos
+Profit at EDS Increases 16%,0.5,0.5,neg
+Sun Lowers Earnings Projection,0.782828282828,0.217171717172,pos
+Former H-P Executive Pleads Guilty,0.686734586149,0.313265413851,pos
+VMware Ousts Star CEO as Growth Slows,0.719783376784,0.280216623216,pos
+Alcatel-Lucent Shifts Direction To Offset Slow Growth,0.832768389016,0.167231610984,pos
+New Breed of Directors Reaches Out to Shareholders,0.517983145965,0.482016854035,pos
+Studio Chooses Intel for Chip Pact,0.798259318634,0.201740681366,pos
+China's Haier, Equity FirmsShow Interest in Bid for Maytag,0.579865301413,0.420134698587,pos
+Corrections & Amplifications,0.5,0.5,pos
+Intel's New Six-Brain Chip Garners Good Critiques,0.8686857337,0.1313142663,pos
+Nokia Pursues Security-Unit Sale,0.646739130435,0.353260869565,pos
+Commercial-Paper Market Seizes Up,0.588888888889,0.411111111111,pos
+Computer Sciences Gets Huge Tax Credit,0.816936100852,0.183063899148,pos
+IBM Plans to Build More Server Centers,0.616575431278,0.383424568722,pos
+Cisco to Buy Instant-Message Start-Up,0.148,0.852,neg
+Tumultuous Ad Market to Test New Ogilvy CEO,0.838177702895,0.161822297105,pos
+Cutting Tech's Energy Bill,0.774449677723,0.225550322277,pos
+Phone Giants Are Lobbying HardTo Block Towns' Wireless Plans,0.283279461909,0.716720538091,neg
+High Schools Add Classes Scripted by Corporations,0.712636399833,0.287363600167,pos
+Patent Nonsense,0.324427480916,0.675572519084,neg
+Some CEOs AdvertiseThe 'Me' Brand -- With Limited Success,0.669195907625,0.330804092375,pos
+Intel, Cisco Systems: Money Flow Leaders (INTC, CSCO),0.666987145717,0.333012854283,pos
+Green Goal of 'Carbon Neutrality' Hits Limit,0.911528477271,0.0884715227287,pos
+Run on Washington,0.545642605634,0.454357394366,pos
+Court Ruling Won't Much Affect Microsoft Customers,0.988564310671,0.0114356893287,pos
+Companies Let Anyone E-MailThe Board, But Few Write In,0.400212906849,0.599787093151,neg
+Intel Warning Bodes Ill for Whole Economy,0.0672105919756,0.932789408024,neg
+Suzanne Johnson,Goldman Sachs Star,To Retire in January,0.863356600439,0.136643399561,pos
+Targeting Depression,0.565693430657,0.434306569343,pos
+To Lure Teens to Its Latest Web Site,Conde Nast Turns to the 'Flip Squad',0.181621780891,0.818378219109,neg
+Stent ConcernsAre GalvanizingPlaintiffs' Bar,0.4453125,0.5546875,neg
+Hometown Makes Good,0.788500326719,0.211499673281,pos
+FDA, Ahead of a Safety Review,Cites Risk in Drug-Coated Stents,0.854132835729,0.145867164271,pos
+FDA Panel to ReviewRisks of Drug-Coated Stents,0.625,0.375,pos
+Study Finds Longer Plavix UseCuts Risk for Drug-Stent Patients,0.852036521418,0.147963478582,pos
+Psychiatrists Resist FDA on Widening Antidepressant Suicide Label,0.165962236413,0.834037763587,neg
+Big Phone FirmsDelve Undersea For Asian Growth,0.289671478921,0.710328521079,neg
+Consumer Confidence Rises Again,0.72755773054,0.27244226946,pos
+Yukos Drops 5 Banks From SuitIn Texas Over Auction of Unit,0.196914596308,0.803085403692,neg
+Resourcehouse Trims IPO Size as MGM Seeks More,0.710884703188,0.289115296812,pos
+Slowdown in Growth Is Becoming a Concern,0.532,0.468,pos
+Bid to Use Gold as Collateral Advances,0.242834919233,0.757165080767,neg
+J.P. Morgan to Bear: Teach Us How You Did That,0.566998716215,0.433001283785,pos
+J.P. Morgan and the Chamber of Secrets,0.830432831492,0.169567168508,pos
+Premarket: J.P. Morgan Boosts Futures,0.530303030303,0.469696969697,pos
+Live-Blogging the J.P. Morgan Earnings Call,0.552036228478,0.447963771522,pos
+Investors Put Ford Bonds in Their Future,0.843312431394,0.156687568606,pos
+Hansen Distribution Deal,0.652945229073,0.347054770927,pos
+Coke Bottler Takes Hit On Cost of Concentrate,0.670945748465,0.329054251535,pos
+Exxon Leads the Dow; Allstate, Goldman Fall,0.303411285813,0.696588714187,neg
+Coke Overcomes Weak U.S. Results,0.883193481698,0.116806518302,pos
+Broader, Deeper Job Cuts Risk Steepening Slump,0.874703754522,0.125296245478,pos
+Pepsi Results Send Chills In Beverage, Snack Sector,0.165301582922,0.834698417078,neg
+Mistakes Marketers Make,0.71518891065,0.28481108935,pos
+In This Market, Dividends Look Great,0.642584439357,0.357415560643,pos
+Barclays Capital Loan Sale Finds Few Buyers,0.938986999024,0.0610130009756,pos
+Margin Calls Hitting More Executive Suites,0.0547313191009,0.945268680899,neg
+Under Criticism,Drug Maker LillyDiscloses Funding,0.769386128797,0.230613871203,pos
+Eli Lilly & Co.,0.5,0.5,pos
+Noted . . .,0.547619047619,0.452380952381,pos
+What Diabetes Patients Need to Know,0.335461445131,0.664538554869,neg
+Pharma Box Office: Diabetes Drugs,0.472401121382,0.527598878618,neg
+More Pharma Genes in Biotech's DNA,0.0651834504294,0.934816549571,neg
+Lilly Posts a Profit on Jump in Sales,0.382911392405,0.617088607595,neg
+Dell's WarningPuts PressureOn the Market,0.811377581467,0.188622418533,pos
+Financial Ties to IndustryCloud Major Depression Study,0.865695703531,0.134304296469,pos
+FDA Signals It's OpenTo Drug Trials ThatShift Midcourse,0.848969933185,0.151030066815,pos
+Lockheed's ProfitIncreases by 60%;Northrop's Drops,0.480769230769,0.519230769231,neg
+With New Rules,Weapons Projects Set Higher Costs,0.671587515339,0.328412484661,pos
+Satellite MalfunctionUnsettles Broadcasters,0.653846153846,0.346153846154,pos
+Boeing Joins Team CompetingFor U.S. Military Plane Contract,0.605201127372,0.394798872628,pos
+Rate Fears Sink Stocks,0.804924800944,0.195075199056,pos
+Boeing Nears Settlement With U.S.,0.825133790254,0.174866209746,pos
+Social Engineering,0.791139240506,0.208860759494,pos
+Air Force TankerGets Nod; Boeing,Airbus to Compete,0.862910720595,0.137089279405,pos
+Health Insurers MustCover Adult Children,0.610507268875,0.389492731125,pos
+Pentagon Cites 36 Arms ProjectsFor Cost Growth Under New Rules,0.683197563947,0.316802436053,pos
+Lowe's Net Rises,But March SalesChilled by Weather,0.836813130332,0.163186869668,pos
+GM Drives Toward EndOf Big Media Review,0.715997072172,0.284002927828,pos
+Dow Industrials Recover by 1.1% As Worries Ease,0.521523178808,0.478476821192,pos
+Exxon, Chevron Shares Edge Down,0.52966199747,0.47033800253,pos
+Inflation and Rate Fears Ebb,Pushing Blue Chips Higher,0.991940919001,0.00805908099872,pos
+AIG and Home Depot Get a Bump,0.238670534834,0.761329465166,neg
+A Paint Pro Paints a Home,0.600697015699,0.399302984301,pos
+Publicis Wins a GM Media Account,0.73602484472,0.26397515528,pos
+Half-Glass Economy,0.291666666667,0.708333333333,neg
+China Feels the Heat,0.687531703839,0.312468296161,pos
+MasterCard To Buy Travelex Prepaid Business,0.647874493927,0.352125506073,pos
+MasterCard Develops Payment Solution for UID Project,0.733479723284,0.266520276716,pos
+Teen Arrested in the Netherlands in Hacking Attacks by WikiLeaks Sympathizers,0.914987456259,0.0850125437413,pos
+Hackers Strike Back to Support WikiLeaks,0.732973897091,0.267026102909,pos
+WikiLeaks' Supporters Pledge More Attacks,0.87982940291,0.12017059709,pos
+Web Attacks Test PayPal's Defenses,0.732167352538,0.267832647462,pos
+Fed's New Debit-Card Fee Rules Hit Hard; Issuers Howl,0.403739219301,0.596260780699,neg
+Judge Keeps Dutch Teen in Custody,0.479307426849,0.520692573151,neg
+WikiLeaks Has Sharply Raised Spending,0.879764143412,0.120235856588,pos
+Banks Look to Prepaid Cards to Replace Lost Revenue,0.861267886841,0.138732113159,pos
+Hedge-Fund Man at McDonald's,0.554393653611,0.445606346389,pos
+McDonald's Plans to Sell Part Of Chipotle in an IPO Next Year,0.789143544197,0.210856455803,pos
+Fund Lifts McDonald's Shares,0.522727272727,0.477272727273,pos
+McDonald's MarketerLarry Light to Retire;Dillon to Be Successor,0.974818437489,0.0251815625106,pos
+McDonald's OptionsProvide an Opening;A For-Profit CBOE,0.548407414072,0.451592585928,pos
+McDonald's Posts Strong Sales,0.64272517321,0.35727482679,pos
+Buying an iPod from a Vending Machine,0.353996262598,0.646003737402,neg
+Job OutpouringFor EvacueesSparks Backlash,0.771028037383,0.228971962617,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+Market Rises, but Katrina Is Roiling Stocks,0.877370472181,0.122629527819,pos
+Video: Opinion Journal: California's War on Suburbia -- Wendell Cox on why the state wants denser housing,0.947640388115,0.0523596118846,pos
+A Jobs Slump,0.53,0.47,pos
+Kraft Expects Kick From Drinks,0.46323309035,0.53676690965,neg
+What's a Mondelez? A Krafty New Name for Snack Maker,0.108055610014,0.891944389986,neg
+Corrections & Amplifications,0.5,0.5,pos
+Kraft Still Trimming the Fat Ahead of Split,0.636301528466,0.363698471534,pos
+Video: If Apple Strikes a Deal With Cable Companies, Price of Cable May Drop,0.807491323093,0.192508676907,pos
+Kraft Foods to Sell Part of Back to Nature Line,0.54027847091,0.45972152909,pos
+Inside Apple v. Samsung; A Legal Perspective; Power of the Zuckerberg Like,0.955245477834,0.0447545221664,pos
+Stocks Hit Multiyear High,0.638428004177,0.361571995823,pos
+Medtronic Settles Patent Fight,0.703339517625,0.296660482375,pos
+Pain Control Gets RechargeableWith Latest Neurostimulators,0.696605094289,0.303394905711,pos
+A More Affordable Cardiac Device,0.635464231355,0.364535768645,pos
+Building Wealth, DRIP by DRIP ...,0.88552437223,0.11447562777,pos
+How a Famed Hospital InvestsIn Device It Uses and Promotes,0.77448495866,0.22551504134,pos
+Guidant Issues Warning on Its Older Pacemakers,0.764054266644,0.235945733356,pos
+Medical-Device Makers May SeeSlower Growth in the Second Half,0.488390118345,0.511609881655,neg
+Guidant's Profit FallsOn Charge for Recall,0.748650890704,0.251349109296,pos
+Volatility ForecastRises Amid BuyingOf Puts on Utilities,0.869289340102,0.130710659898,pos
+Boston Scientific LosesPatent Case Over J&J Stent,0.602324804216,0.397675195784,pos
+MetLife Probed on Death Benefits,0.753228476821,0.246771523179,pos
+Hancock in Settlement Over Death Benefits,0.960432851505,0.0395671484948,pos
+Stock and Bond Sales Stand Up to the Turmoil,0.524051315735,0.475948684265,pos
+States Probe Life Insurance Policy Payments,0.993070074591,0.00692992540933,pos
+Regulators Order 14 Banks to Revamp Foreclosure Practices,0.405385549096,0.594614450904,neg
+Do 'Managed Payout' Funds Pay Off?,0.298045620508,0.701954379492,neg
+Life-Insurance Licensing Test Is Too Hard, Biased, Primerica Says,0.921696796519,0.0783032034812,pos
+Task Force Members From The Wall Street Journal's Conference on Women in the Economy,0.212917529201,0.787082470799,neg
+MetLife's EarningsSoar 65% on GrowthIn Premiums, Fees,0.875,0.125,pos
+Insurers PushAll-in-One Policies,0.5,0.5,pos
+3M Cuts an Additional 1,200 Jobs,0.689147844866,0.310852155134,pos
+Workers at 3M Plant in France Take Boss Hostage,0.282229099246,0.717770900754,neg
+French Executives Surrender Stock Options, Responding to Protests,0.172986771753,0.827013228247,neg
+In Europe, Rage Over Crisis Hits Executives,0.848394868964,0.151605131036,pos
+Forget Companies -- Traders Track the Lawmakers,0.921836865752,0.0781631342481,pos
+Ford Names Gephardt, Earley to Board,0.591898400393,0.408101599607,pos
+Today's Photos: March 25,0.678294573643,0.321705426357,pos
+3M to Take Repatriation Charge,0.469197151182,0.530802848818,neg
+Long Haul AheadFor Boeing's Chief,0.0692029017639,0.930797098236,neg
+For Its New CEO,3M Is ExpectedTo Look Outside,0.581502645061,0.418497354939,pos
+Altria's Profit Rises 8.9% On Strong Cigarette Sales,0.850426905456,0.149573094544,pos
+GM and Altria Flex MusclesBut GenProbe Shares Fall 6.8%,0.439033742331,0.560966257669,neg
+Altria Declines; J&J, GM, Apple Rise,0.747520717294,0.252479282706,pos
+J.P. Morgan, Altria AdvanceWhile Intel and Honeywell Fall,0.291964155617,0.708035844383,neg
+Dow Gains 60.76, Powered by GM DealAnd Court Decision Favoring Altria,0.818333528516,0.181666471484,pos
+Justices Won't Hear Tobacco Case,0.479965617561,0.520034382439,neg
+Rx From Marlboro Man: DeviceThat Delivers Drugs, Not Smoke,0.406406778134,0.593593221866,neg
+Tobacco: Smoke Signals From the Courts,0.935578164431,0.0644218355693,pos
+Kraft Earnings Decline 13.5%On Higher Commodity Costs,0.401917624235,0.598082375765,neg
+Why Kraft Decided to BanSome Food Ads to Children,0.228334343506,0.771665656494,neg
+Monsanto Profit Tumbles 81%,Hurt By Acquisition Write-Offs,0.959302325581,0.0406976744186,pos
+Monsanto Investment in SolutiaTo Aid in Chemicals Cleanup,0.169270833333,0.830729166667,neg
+Oracle, AIG Rise After Earnings;General Mills, Monsanto Decline,0.940014131916,0.0599858680843,pos
+EU States Reject Lifting Biotech Bans,0.436460807601,0.563539192399,neg
+GM Helps Blue Chips Stay Positive,0.909721817364,0.0902781826362,pos
+Investors Hold Fire Before Fed,0.633657058236,0.366342941764,pos
+Crackdown Puts Corporations,Executives in New Legal Peril,0.241510744023,0.758489255977,neg
+Donaldson's Last Hurrah,0.192824251727,0.807175748273,neg
+The Neutrality Gamble,0.675219336616,0.324780663384,pos
+Step by Step,0.570512820513,0.429487179487,pos
+Merck, Schering See Smaller Decline,0.640223713647,0.359776286353,pos
+Merck Signals Delays For Its Shingles Vaccine,0.325008201548,0.674991798452,neg
+Merck Sees Wait on Cordaptive,0.546208112875,0.453791887125,pos
+FDA Rejects Expanded Gardasil Use,0.693898871709,0.306101128291,pos
+Merck Wins Suit on Vioxx Monitoring,0.88672922252,0.11327077748,pos
+Merck, iShares Russell 1000: Money Flow Leaders (MRK, IWB),0.835029239392,0.164970760608,pos
+Drug Makers Say FDA Safety Focus Is Slowing New-Medicine Pipeline,0.655244379648,0.344755620352,pos
+Even Defensive Names Take Hits,0.779041413751,0.220958586249,pos
+Genetic Research May Help Pick Patients' Best Cancer Drugs,0.461408955201,0.538591044799,neg
+Roberts, Alito Pare Holdings,0.611111111111,0.388888888889,pos
+Less Risky, Morgan Stanley Still at Loss,0.816071368861,0.183928631139,pos
+Morgan Stanley to Post a Loss From Volatile, Complex Bonds,0.913283847528,0.0867161524723,pos
+Does Morgan Stanley Want to Exit the Casino?,0.546419810511,0.453580189489,pos
+Morgan Stanley Eyes Big Trading Change,0.842517933392,0.157482066608,pos
+Morgan Stanley: Analysts Fooled by Randomness,0.82975552823,0.17024447177,pos
+Morgan Stanley Is Left Out of the Rally Party,0.756435356251,0.243564643749,pos
+Morgan Stanley&#8217;s Troubles Hit Shares,0.859938374943,0.140061625057,pos
+Morgan Stanley Adds Four to Management Committee,0.921964064896,0.0780359351038,pos
+Mack: We Still Have to Shell Out,0.355153337863,0.644846662137,neg
+Morgan Stanley Raises $1.1 Billion for Fund,0.742598287,0.257401713,pos
+Bank of America Follows Internet Companies Into the Cloud,0.885314350259,0.114685649741,pos
+Microsoft PlansTo Step Up PaceOf Acquisitions,0.799401197605,0.200598802395,pos
+Google Calls MicrosoftLawsuit a Scare Tactic,0.257304016453,0.742695983547,neg
+Microsoft's Net Income Jumps 38%,0.767786561265,0.232213438735,pos
+Microsoft Sues to KeepAide From Google,0.90167851731,0.0983214826903,pos
+Microsoft AccordTo End IBM CaseHighlights Rivalry,0.747986577181,0.252013422819,pos
+Microsoft WinsSmall BattleIn Google Suit,0.744094488189,0.255905511811,pos
+Text of Microsoft Statement,0.829881656805,0.170118343195,pos
+New Microsoft ProgramOffers Homework ToolsBut It's Clumsy to Use,0.57560029521,0.42439970479,pos
+Microsoft Opens New Windows With a Less-Technical Name,0.861155323117,0.138844676883,pos
+Nike Net Jumps 32%On U.S. Sneaker Sales,0.237140003329,0.762859996671,neg
+The Science of Running Barefoot -- in Shoes,0.617673881352,0.382326118648,pos
+Ordinary People Starring in AdsConvey Realistic, Genuine Feel,0.958187991267,0.0418120087327,pos
+Core LaboratoriesRises, but VisteonAnd Cost Plus Fall,0.386237027066,0.613762972934,neg
+Yue Yuen's Profit Declines 10%As Labor, Materials Costs Surge,0.970847231488,0.0291527685123,pos
+Exxon Mobil, Transocean Hit Records as GM, FedEx Slump,0.114231592818,0.885768407182,neg
+Ugly Rita,0.401515151515,0.598484848485,neg
+Plain and Fancy Footwork,0.328535669587,0.671464330413,neg
+For Plus-Size Women,More Chic Choices,0.528370272377,0.471629727623,pos
+Once-Hot Volkswagen AttemptsTo Reverse U.S. Sales Decline,0.237654320988,0.762345679012,neg
+Mutual Funds That Are Beating the Bear,0.752375889037,0.247624110963,pos
+Stocks to Watch: Weatherford, Delta and More,0.902096472787,0.0979035272133,pos
+Morning MarketBeat: Feeling the Burn,0.330871818141,0.669128181859,neg
+Tomorrow's Tape: Sweet Home,0.744019638567,0.255980361433,pos
+Exxon, BP Decline; Aetna Bounces Back,0.0900401227283,0.909959877272,neg
+'Smart Pig' Hogs Spotlight as BP Closes Oil Field,0.642402642435,0.357597357565,pos
+Shareholder Criticism,0.634615384615,0.365384615385,pos
+Chesapeake Energy Board Turns on CEO Aubrey McClendon,0.601857942708,0.398142057292,pos
+Oil-Field Suppliers Feel Urge to Merge,0.919788459345,0.0802115406546,pos
+Large-Cap Stocks Snap Two-Day Rally,0.778169014085,0.221830985915,pos
+Railroad Stocks Are Picking Up Steam,0.416831091302,0.583168908698,neg
+Less Bearish on the Buck,0.764837080216,0.235162919784,pos
+Train Accident Adds to Calls For New Monitoring,0.931781286027,0.0682187139734,pos
+Tensions MountOver Fuel ChargesSet by Railroads,0.286,0.714,neg
+Railroads Push to Harden Tank Cars,0.0352014075279,0.964798592472,neg
+Railroads Face Combined Price-Fixing Complaint,0.512203925883,0.487796074117,pos
+Burned Before, Railroads Take Risks,0.338375926497,0.661624073503,neg
+Industrial Stocks Suffer Bleak Tuesday,0.512208587516,0.487791412484,pos
+Freight Haulers Slam on the Brakes,0.206045895852,0.793954104148,neg
+Berkshire TakesA Bigger InterestIn U.S. Railroads,0.0494791666667,0.950520833333,neg
+As Tech Rebounds,A Software MogulBuilds Big in Hawaii,0.436368244022,0.563631755978,neg
+BEA's Response to Oracle,0.883928571429,0.116071428571,pos
+Oracle Delivers LetterTo BEA Systems Board,0.985884084778,0.0141159152224,pos
+A Positive Halo,0.452380952381,0.547619047619,neg
+The Private-Equity CEO,0.50025,0.49975,pos
+Oracle's Letter to Retek Directors,0.782554877042,0.217445122958,pos
+In Line to Lead,0.489335818818,0.510664181182,neg
+Oracle's Statement on Siebel Deal,0.830267192291,0.169732807709,pos
+Oracle Cases Show Risks of Selling,0.838348079539,0.161651920461,pos
+Judge Questions Costs in Oracle Suit,0.878956930429,0.121043069571,pos
+Roc Oil to Drill in Angola,0.151785714286,0.848214285714,neg
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Behind Soaring Executive Pay,Decades of Failed Restraints,0.811047040225,0.188952959775,pos
+Nexen Targets Canada Oil Sands,To Sell Some Conventional Fields,0.572092718846,0.427907281154,pos
+Oil Drilling Goes High Tech,0.283637202094,0.716362797906,neg
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+What's Old is New,0.541801535404,0.458198464596,pos
+Drinks Makers Woo Convenience Store Shoppers,0.267237862141,0.732762137859,neg
+Stocks to Watch: McDonald's, Dollar Thrifty and More!,0.59213382711,0.40786617289,pos
+New! Improved! Products That Look Very Old,0.351667093428,0.648332906572,neg
+In Quest for Job Candidates, Companies Aim to Look Cool,0.669723910628,0.330276089372,pos
+To Cut Costs in China, Companies Shrink Package Size,0.724925605302,0.275074394698,pos
+Ronald McDonald to Face Fire at Annual Meeting,0.973093216045,0.0269067839552,pos
+McDonald's Marketing and Ronald McDonald Come Under Fire,0.71353758381,0.28646241619,pos
+PepsiCo Plans Recycling Initiative,0.547399328859,0.452600671141,pos
+Tata Tea, PepsiCo Explore Joint Venture,0.717391304348,0.282608695652,pos
+Pfizer to Cut 6,000 Jobs, Halt Work at Eight Sites in Wake of Wyeth Deal,0.707217783911,0.292782216089,pos
+OPTIONS REPORT: Big 'Buy-Write' Trades in Pfizer, Activision,0.0736144578313,0.926385542169,neg
+Pfizer Halts Inspra Trial Enrollment on Early Success,0.575003765421,0.424996234579,pos
+Pfizer Teams Up With Medical School,0.632971923053,0.367028076947,pos
+Supreme Court Rejects Pfizer Appeal in Investor Suit,0.666486304948,0.333513695052,pos
+AstraZeneca Poaches R&D Head From Pfizer,0.503115406629,0.496884593371,pos
+Pfizer, Merck Net Slides,0.754901960784,0.245098039216,pos
+Generic Lipitor Goes on Sale in Canada,0.483876650504,0.516123349496,neg
+Pfizer Deal Highlights China's Clout,0.755917678797,0.244082321203,pos
+Corporate Watch,0.596774193548,0.403225806452,pos
+Noted ...,0.547619047619,0.452380952381,pos
+Noted . . .,0.547619047619,0.452380952381,pos
+Beneath the Dow's Surge,Investors Find a Mixed Bag,0.923975656398,0.0760243436021,pos
+As Energy Prices Sink,Many Firms Are Buoyed,0.499491394047,0.500508605953,neg
+P&G Stumbles in China,0.571287779238,0.428712220762,pos
+At Many Companies, Hunt for LeakersExpands Arsenal of Monitoring Tactics,0.97910071269,0.0208992873101,pos
+CW Will Try A New Ad Idea:'Content Wraps',0.687803823367,0.312196176633,pos
+Revlon Elevates Kennedy To CEO as Stahl Resigns,0.922360248447,0.0776397515528,pos
+P&G Sells Sure Deodorant LabelTo Private Firm Innovative Brands,0.833068837915,0.166931162085,pos
+'Any College Will Do',0.50061641423,0.49938358577,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+Noted . . .,0.547619047619,0.452380952381,pos
+Who's News Briefs,0.467927237913,0.532072762087,neg
+Cigarette MakersAnd U.S. Seek Deal,0.501054658841,0.498945341159,pos
+Stock Market Still Faces Uncertainty,0.789213762893,0.210786237107,pos
+Japan's Smoking Rate Hits Record Low,0.685282739762,0.314717260238,pos
+Europe's Smoking Problem,0.585620838687,0.414379161313,pos
+Jeremy Siegel and Jeremy Schwartz: The Great American Bond Bubble,0.911944472985,0.0880555270154,pos
+Reynolds's New Cigarette Merely Heats Tobacco,0.549416904471,0.450583095529,pos
+Barclays's Barbara Byrne on Building Client Relationships,0.525045184329,0.474954815671,pos
+Qualcomm's Profit Leaps 46%,0.776785714286,0.223214285714,pos
+Option Trading Remains CautiousDespite Drop in Producer Prices,0.861990286775,0.138009713225,pos
+Wireless Industry Agrees to StudyStandard to Boost Network Speed,0.639472104074,0.360527895926,pos
+Tax Cut, Shareholder PressureStoke Surge in Stock Dividends,0.666716121908,0.333283878092,pos
+Kyocera Wireless to Cut Jobs,Shift Manufacturing to Mexico,0.213285897585,0.786714102415,neg
+TI to Supply New Phone Chip,0.798294123951,0.201705876049,pos
+Technology Stocks DeclineAs eBay's Woes Rattle Investors,0.735294117647,0.264705882353,pos
+NASD FinesStock AnalystOver a Rumor,0.6875,0.3125,pos
+Corrections & Amplifications,0.5,0.5,pos
+Readers Are Split on FiningAnalysts for Passing Rumors,0.750070877485,0.249929122515,pos
+L-3 Looks for More Lift,0.525798644426,0.474201355574,pos
+The Cities Immigrants Skip;Hugo Stirs Up Montana Storm,0.96947548262,0.0305245173802,pos
+ITT Agrees to Buy EDO for $1.4 Billion,0.727962691919,0.272037308081,pos
+Video: digits: Jobs's Disney Attendance Record Questioned,0.0315214572266,0.968478542773,neg
+Colleges' Research Agreements With Corporations Play Big Role in Jobs,0.770314927203,0.229685072797,pos
+Bold Builders Bet on Skyscrapers,0.855609648152,0.144390351848,pos
+Best Executive MBA Programs: The Wall Street Journal's 2010 Rankings,0.335455925077,0.664544074923,neg
+U.S.-Saudi Arms Deal Moves Ahead,0.629669852302,0.370330147698,pos
+Oil-Rich Norway Hires Philosopher As Moral Compass,0.477050232707,0.522949767293,neg
+Can Boeing Stay at Lofty Heights?,0.905498028316,0.0945019716845,pos
+Happy Workers Are the Best Workers,0.784472907348,0.215527092652,pos
+New Respect for an Old Ritual,0.320995526268,0.679004473732,neg
+Labor Complaint Hits Starbucks,0.910802723896,0.089197276104,pos
+Heartland Sees Boom With Grains in Demand,0.655460777012,0.344539222988,pos
+The 50 Women to Watch 2008,0.542506353077,0.457493646923,pos
+When Activists Are Terrorists,0.898634707568,0.101365292432,pos
+Use These Search Strategies When You're Looking to Relocate,0.553950327101,0.446049672899,pos
+Will Work for Fodder,0.812422600183,0.187577399817,pos
+Nasdaq to Acquire Phil-Ex for $652 Million,0.524469536962,0.475530463038,pos
+ADM ChoosesAn Energy-Savvy OutsiderAs Its New CEO,0.560681313369,0.439318686631,pos
+Schlumberger Net Jumps,0.524291497976,0.475708502024,pos
+Schlumberger's Net Rises 47%,Helped by International Operations,0.876303525095,0.123696474905,pos
+Exxon Mobil, Schlumberger: Money Flow Leaders (XOM, SLB),0.638630841789,0.361369158211,pos
+SPDR Trust, Schlumberger: Money Flow Leaders (SPY, SLB),0.742094272748,0.257905727252,pos
+Schlumberger, iShares Russell 2000: Money Flow Leaders (SLB, IWM),0.834349519516,0.165650480484,pos
+Energy Shock:Sector's SharesStill a Bargain,0.601980834583,0.398019165417,pos
+BP's Net Income Rises 1.5%On Sale of Refinery, Pipeline,0.993506493506,0.00649350649351,pos
+Stocks Gain on Mergers, Earnings,0.413732394366,0.586267605634,neg
+Google, Caterpillar Hurt Markets,0.723684210526,0.276315789474,pos
+Halliburton's Net More Than Doubles,0.770848956582,0.229151043418,pos
+Major Indexes End Mixed On Jitters Over Oil Prices,0.809757394908,0.190242605092,pos
+The Second Draft,0.360003305158,0.639996694842,neg
+China's M.B.A. ProgramsAttract the Business Elite,0.797193562193,0.202806437807,pos
+Sudan's Oil Leads to Standoff,0.784047282279,0.215952717721,pos
+Shopkeepers Say 'Enough',0.501703577513,0.498296422487,pos
+Creditor-Friendly South OffersPreview of Bankruptcy Changes,0.660252415083,0.339747584917,pos
+Citigroup and Fannie Mae Decline,0.388888888889,0.611111111111,neg
+Spain's Auna and Ono Battle For Each Other's Media Assets,0.743239591101,0.256760408899,pos
+Archstone-SmithTo Buy ApartmentsFrom Oakwood,0.60989010989,0.39010989011,pos
+Conviction Marks a Crucial WinFor U.S. Prosecutor in Manhattan,0.966706328447,0.0332936715526,pos
+Lenders Clamp DownOn Inflated Appraisals,0.25,0.75,neg
+Real Estate,0.592915770181,0.407084229819,pos
+Concerns MountAbout Mortgage Risks,0.483788395904,0.516211604096,neg
+Rising RentsJolt Tenants,0.550847457627,0.449152542373,pos
+Simon Property Sets Offerings to Repay Debt,0.612065324511,0.387934675489,pos
+Simon, Others in Real Estate Tackle Debt,0.931239127899,0.0687608721008,pos
+With Little Choice, REITs Raise Capital,0.680739609585,0.319260390415,pos
+REIT Dividend Cuts Loom,0.2125,0.7875,neg
+General Growth Avoids Chapter 11,0.973356410816,0.0266435891845,pos
+Mall Owner Presses Bondholders,0.871323529412,0.128676470588,pos
+The Year of the Quarterback Meltdown,0.669600141072,0.330399858928,pos
+AT&T Inc.,0.416666666667,0.583333333333,neg
+AT&T, BellSouth Statement,0.53125,0.46875,pos
+AT&T Inc.,0.416666666667,0.583333333333,neg
+AT&T Issues Upbeat Forecasts,0.942554610639,0.0574453893613,pos
+Phone Giants Roll Out 'Three Screen' Strategy,0.255667536283,0.744332463717,neg
+Union WeaknessLets Firms SeekBig Concessions,0.357142857143,0.642857142857,neg
+In Europe's AuctionOf New Web Names,Strife and Confusion,0.90587228956,0.0941277104402,pos
+AT&T Inc.,0.416666666667,0.583333333333,neg
+AT&T Expands High-Speed Internet Rollout,0.691489361702,0.308510638298,pos
+Energy Firm to Miss TargetFor Drilling Offshore Russia,0.91059602649,0.0894039735099,pos
+Online Clothes Reviews Give'Love That Dress' New Clout,0.931295097986,0.0687049020137,pos
+Alltel Looks Like a Good Call to Private Equity,0.502834600896,0.497165399104,pos
+How a Highflier in Marketing Fell at Wal-Mart,0.405718266437,0.594281733563,neg
+Sony Will Boost LCD Shipments,0.783744616179,0.216255383821,pos
+Search EnginesHelp ShoppersTo Buy Locally,0.341356173436,0.658643826564,neg
+Wall Street Weighs InOn Airline Consolidation,0.392297242873,0.607702757127,neg
+Wii! Wii! Wii! This Holiday Season Has Been a Wild Ride for Nintendo,0.515456270266,0.484543729734,pos
+Wal-Mart Blames Short-Term Woes,But Some Expect Challenges to Remain,0.735701883652,0.264298116348,pos
+Walgreen Profit Jumps 25%,Helped by Prescription Sales,0.341552557483,0.658447442517,neg
+SEC Fines Time Warner $300 Million,0.270564299216,0.729435700784,neg
+Text of SEC StatementOn Time Warner Settlement,0.342967962194,0.657032037806,neg
+Cablevision, Time Warner FailTo Reach Sports Networks Deal,0.2336974377,0.7663025623,neg
+Time Warner Press Release on SEC Settlement,0.296983444298,0.703016555702,neg
+Time Warner Joins 'Indie' Film CompanyWith HBO, New Line,0.398907941846,0.601092058154,neg
+Warner Music Unveils IPO Plan,In Possible Step Toward EMI Deal,0.96915717498,0.0308428250199,pos
+EU Drops Probe Into DealAllying Microsoft, Time Warner,0.665717438608,0.334282561392,pos
+Time Warner's Ivan HeldMoves to Putnam's Sons,0.57364633069,0.42635366931,pos
+Internet-Service Providers UseVOIP to Get Into Phone Game,0.523720330984,0.476279669016,pos
+Movie, Music GiantsTry New Weapon Against Pirates: Price,0.660398812238,0.339601187762,pos
+Semiconductor Firms Slash Forecasts,0.416666666667,0.583333333333,neg
+Semiconductor Companies Are Hot Commodities Recently,0.887392343768,0.112607656232,pos
+Are Chips Done With Dips?,0.848052143642,0.151947856358,pos
+Fairchild Semi to Cut 12% of Staff,0.258909944367,0.741090055633,neg
+Dow industrials decline amid profit warnings,0.831005586592,0.168994413408,pos
+Two New Devices Give Presentations Some Portability,0.281223759359,0.718776240641,neg
+FedEx and SunTrust Get Hit in Down Day,0.259436949383,0.740563050617,neg
+Dow Drops 2.7% in Broad Retreat,0.637164040778,0.362835959222,pos
+European Shares Advance; Daimler, Nokia Gain,0.620943816058,0.379056183942,pos
+Moscow to OPEC: Let's Revamp How Oil is Traded,0.548126780107,0.451873219893,pos
+Court Bolsters UnitedHealth Settlement,0.85119047619,0.14880952381,pos
+GM Reaches Settlement In Securities-Fraud Case,0.687690432663,0.312309567337,pos
+Humana Net Falls as Costs Increase,0.759802052278,0.240197947722,pos
+Fierce Bidding for Drug Benefit,0.704014567029,0.295985432971,pos
+Top Newsletter Picks,0.724835101807,0.275164898193,pos
+Insurers Bet BigOn New Drug Benefit,0.658220041382,0.341779958618,pos
+WellPoint Gets New York FootholdIn $6.5 Billion WellChoice Deal,0.649883539051,0.350116460949,pos
+Medicare Names ApprovedDrug-Plan Providers,0.405882352941,0.594117647059,neg
+Newly Out of a Job? Here's How To Replace the Health Benefits,0.598224014244,0.401775985756,pos
+Insurers Hire Radiology Police to Vet Scanning,0.835834896811,0.164165103189,pos
+UPS, Union Pacific Profits Show Healthy Economy,0.123356269113,0.876643730887,neg
+Union Pacific's Profit JumpsOn Sharp Rise in Shipping Rates,0.614064736758,0.385935263242,pos
+The Middle of Somewhere,0.361605222525,0.638394777475,neg
+Tensions MountOver Fuel ChargesSet by Railroads,0.286,0.714,neg
+Three Chinese AirlinesMight Forge Tighter Links,0.979823024191,0.0201769758086,pos
+Traffic Jam on the Tracks,0.810498465993,0.189501534007,pos
+Pomp & Circumstance,0.863636363636,0.136363636364,pos
+Noted ...,0.547619047619,0.452380952381,pos
+Can Ethanol SolveThe Nation's Energy Problems?,0.54974912669,0.45025087331,pos
+A Look at Three Companies in Energy Deal,0.714605924538,0.285394075462,pos
+Trying to Turn Its Image Around,U.S. Puts Top CEOs Out Front,0.721369453239,0.278630546761,pos
+GM's Board Seeks to AddAn African-American Director,0.578620154479,0.421379845521,pos
+Pension Measures Remain Far Apart,0.762019186308,0.237980813692,pos
+Air-Cargo Customers ComplainAbout Carriers' Surcharges,0.657894736842,0.342105263158,pos
+McAfee Rises 18%;Arch Coal Declines,0.873940677966,0.126059322034,pos
+Intel, Yahoo Trade RobustlyAmid Week of Tech Earnings,0.58268111334,0.41731888666,pos
+UPS Rebounds to 16% Net Rise,But Is Cautious About Economy,0.89392346126,0.10607653874,pos
+Amazon Delivers 'Harry Potter'On Same Day of Book's Release,0.623391609372,0.376608390628,pos
+Banks Start to Cater to Late Payers,0.351303885045,0.648696114955,neg
+U.S. Postal Service Makes MoveToward Setting a Rate Increase,0.887131620387,0.112868379613,pos
+Selling the Special Touch,0.572224510729,0.427775489271,pos
+Marvell DropsOn SEC Query;Rambus Gains 6.7%,0.264705882353,0.735294117647,neg
+Fed Faces a Post-Katrina Conundrum:Slowdown in Growth, Rise in Inflation,0.910875962694,0.0891240373057,pos
+Lenders Ease The Throttle On Car Loans,0.769419704271,0.230580295729,pos
+Hiring Outlook Is Bleak For Banking Professionals,0.918651324933,0.081348675067,pos
+U.S. Banks: Too Big to Fail. Too Big to Save?,0.33670216319,0.66329783681,neg
+Four at Four: Audio-Video Plug-Ins,0.559734513274,0.440265486726,pos
+With PNC Riding High, Some Wonder If Bank Can Stick to Turnaround Plan,0.215703649551,0.784296350449,neg
+To raise more capital, Citigroup is shoving aside its shareholders,0.471528093681,0.528471906319,neg
+Countrywide Reports Another RiseIn Overdue Loans,0.871590950523,0.128409049477,pos
+Armenian Genocide Resolution Advances Despite Obama Push,0.439630675865,0.560369324135,neg
+DJIA Extends Winning Streak to Four,0.821200962679,0.178799037321,pos
+Abu Dhabi's Oil Output Gets Tougher,0.949237299691,0.0507627003089,pos
+Obama to Push NASA Plans,0.116212502862,0.883787497138,neg
+Media Giants Converge on Abu Dhabi,0.678694158076,0.321305841924,pos
+United Arab Emirates Joins Nuclear Club,0.747113931242,0.252886068758,pos
+FAA, NASA Clash Over Commercial Space Safety,0.145340571138,0.854659428862,neg
+Northrop Quits Pentagon Tanker Contest,0.17343387471,0.82656612529,neg
+Obama Details Effort to Double Exports Over Five Years,0.397616982394,0.602383017606,neg
+In Texas, a Feud Heats Up Between Wind Power and Natural Gas Power Plants,0.572910992229,0.427089007771,pos
+More Merchants ComplyingWith Visa's Security Rules,0.0489039545666,0.951096045433,neg
+Corrections & Amplifications,0.5,0.5,pos
+Security-Software Industry's Miniboom,0.576388888889,0.423611111111,pos
+Making SureYour StoresGuard the Data,0.424743829841,0.575256170159,neg
+Counting More Than Clicks,0.580690062043,0.419309937957,pos
+'Curveball: Spies, Lies and the Con Man Who Caused a War',0.775176101839,0.224823898161,pos
+How Lawmaker Rebuilt Hometown on Earmarks,0.483041575492,0.516958424508,neg
+What's So Good About Badminton?,0.488861337875,0.511138662125,neg
+MasterCard'sShares Up 21%On Profit Gain,0.792134831461,0.207865168539,pos
+TJX Ruling Gives Banks a Breakthrough,0.959641623182,0.0403583768184,pos
+Cable vs. Phone: Giants Escalate Fierce Turf War,0.153506415212,0.846493584788,neg
+In Risky Move, a New AT&TBets on Internet Technology,0.809087649255,0.190912350745,pos
+MCI Reached Profit in Quarter,0.738805970149,0.261194029851,pos
+BellSouth LaunchesFastest Web ServiceAmong Phone Firms,0.235849056604,0.764150943396,neg
+FCC Approves Verizon-MCI PactAnd SBC's Purchase of AT&T,0.794117647059,0.205882352941,pos
+SBC CompletesAT&T Purchase,Takes New Name,0.613108939303,0.386891060697,pos
+Angling for a Cellphone Upgrade,0.502600104004,0.497399895996,pos
+Alltel to Acquire Midwest Wireless For $1.08 Billion,0.538300163374,0.461699836626,pos
+How to Watch TV,0.496927569738,0.503072430262,neg
+Cable Companies See New Threat In FCC Shift on a la Carte Service,0.591655016025,0.408344983975,pos
+Alliance Boots Takes 12% in China's Nanjing Pharmaceutical,0.75707310164,0.24292689836,pos
+Video: Deal Journal's Winners and Losers: Marissa Mayer and...?,0.354292142718,0.645707857282,neg
+KKR Makes Money Back on Alliance Boots Sale,0.903327684894,0.0966723151062,pos
+Walgreen-Alliance Boots: KKR Makes Back its Money,0.557180475738,0.442819524262,pos
+Walgreens-Alliance Boots Merger Poses Tech Challenges,0.70079787234,0.29920212766,pos
+Analysts Blasting Walgreen-Alliance Boots Deal as Shares Fall,0.856551773185,0.143448226815,pos
+Alliance Boots Deal Biggest in Walgreen's History,0.870543934104,0.129456065896,pos
+Walgreen to Spend $6.7 Billion on Alliance Boots Stake,0.78774061271,0.21225938729,pos
+Video: Walgreen Buys Alliance Boots Stake for $6.7 Billion,0.744479114228,0.255520885772,pos
+A.M. Vitals: Untreatable TB Strain in India,0.938888888889,0.0611111111111,pos
+U.S. to Sell Wells Fargo Warrants,0.807845744681,0.192154255319,pos
+U.S. Gains $840.4 Million From Wells Fargo Warrants,0.940821487953,0.0591785120472,pos
+Wells Fargo, Bank of America: Money Flow Leaders (WFC, BAC),0.966416956901,0.0335830430987,pos
+Wells Fargo CEO John Stumpf Discusses Charitable Giving in San Francisco,0.605134846078,0.394865153922,pos
+Best on the Street Stock Analysts: Business & Industrial Services,0.870454491238,0.129545508762,pos
+Diminishing Return for Taxpayers on Citi Stake,0.910419277075,0.0895807229252,pos
+When Mortgage Relief Is a Band-Aid,0.380703186496,0.619296813504,neg
+Property Report: Tribal-Casino Loans Tested by Ruling,0.949856733524,0.0501432664756,pos
+Chicago Landmark Teeters,0.811977715877,0.188022284123,pos
+Overhaul Puts Bank Ratings at Risk,0.603735310576,0.396264689424,pos
+The Dark Side Of 'Green' Bulbs,0.413522616802,0.586477383198,neg
+Defeatist Double Standard,0.177724813192,0.822275186808,neg
+Wal-Mart Sneezes,China Catches Cold,0.648463317911,0.351536682089,pos
+Roehm AccusesWal-Mart BrassOf Ethics Lapses,0.717391304348,0.282608695652,pos
+Fashion Faux Pas Hurts Wal-Mart,0.300381133873,0.699618866127,neg
+Wal-Mart Chief BoughtRing From Firm's Vendor,0.596400314036,0.403599685964,pos
+Wal-Mart Net Rises As Weakness in U.S. Persists,0.9375,0.0625,pos
+Wal-Mart Sales DeclineIs Worst in 28 Years,0.199697798723,0.800302201277,neg
+Dell to Rely Less on Direct Sales,0.806039014767,0.193960985233,pos
+Wal-Mart Weighs Tie-Up,0.3125,0.6875,neg
+Exxon Adopts Majority VoteFor Uncontested Directors,0.506191950464,0.493808049536,pos
+Results at Exxon,Shell May AugurGrowth Slowdown,0.301694452036,0.698305547964,neg
+Exxon, China Reach Tentative Deal on Russian Gas,0.94805738955,0.0519426104498,pos
+MarketBeat: Broad and Deep Advance,0.489327374379,0.510672625621,neg
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Oil News Roundup,0.744845360825,0.255154639175,pos
+Indonesia Renews BidTo Lure Foreign Investors,0.583333333333,0.416666666667,pos
+Chinese Oil Companies CloseValue Gap With Overseas Rivals,0.513707524158,0.486292475842,pos
