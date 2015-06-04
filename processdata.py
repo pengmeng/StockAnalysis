@@ -96,26 +96,48 @@ def extracttitle(filename, resultpath, limit):
     print('Done.')
 
 
-def main(option, keywordfile, resultpath, limit):
+def jointwofile(firstfile, withfile, header, resultpath):
+    first, _ = loadcsv(firstfile, header)
+    second, _ = loadcsv(withfile, header)
+    match = {}
+    for each in second:
+        match[each[0]] = each[1]
+    del second
+    for i, each in enumerate(first):
+        if each[0] in match:
+            each.append(match[each[0]])
+            first[i] = each
+    outfile = parsefilename(firstfile) + '-join-' + parsefilename(withfile) + '.csv'
+    dumpcsv(resultpath, outfile, first, None)
+
+
+def main(option, keywordfile, resultpath, limit, withfile, header):
     if option == 'count':
         countkeyword(keywordfile, resultpath)
     elif option == 'clean':
         cleantitle(keywordfile)
     elif option == 'extract':
         extracttitle(keywordfile, resultpath, limit)
+    elif option == 'join':
+        jointwofile(keywordfile, withfile, header, resultpath)
 
 
 if __name__ == '__main__':
     result_path = './data/keyword/'
     argparser = argparse.ArgumentParser()
     argparser.add_argument('option', type=str,
-                           choices=['count', 'clean', 'extract'],
+                           choices=['count', 'clean', 'extract', 'join'],
                            help='Option to perform')
-    argparser.add_argument('keywordfile', type=str,
-                           help="Keyword file that will be loaded")
+    argparser.add_argument('inputfile', type=str,
+                           help="Input file to be processed")
     argparser.add_argument('-p', '--path', type=str, default=result_path,
                            help='Path to store the data (default: {0})'.format(result_path))
     argparser.add_argument('-l', '--limit', type=int, default=10,
                            help='Limit when query the database (default: 10)')
+    argparser.add_argument('-w', '--withfile', type=str,
+                           help='File to join the inputfile')
+    argparser.add_argument('--header', help='Indicate that csv file has header line')
+    argparser.add_argument('-s', '--shift', type=int, default=0,
+                           help='Shift # of days among diffrent data')
     args = argparser.parse_args()
-    main(args.option, args.keywordfile, args.path, args.limit)
+    main(args.option, args.inputfile, args.path, args.limit, args.withfile, args.header)

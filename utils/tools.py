@@ -1,5 +1,6 @@
 __author__ = 'mengpeng'
 import os
+import csv
 import time
 
 
@@ -27,8 +28,43 @@ def loadbyline(filename):
     return result
 
 
+def loadcsv(filename, header):
+    result = []
+    if not os.path.exists(filename):
+        print('{0} not found'.format(filename))
+        return result
+    with open(filename, 'r') as csvfile:
+        r = csv.reader(csvfile)
+        for each in r:
+            result.append(each)
+    if header:
+        return result[1:], result[0]
+    else:
+        return result, None
+
+
 def dump(path, filename, lines, mode='w'):
     if not os.path.exists(path):
         os.makedirs(path)
+    if not path.endswith('/'):
+        path += '/'
     with open(path+filename, mode) as f:
         map(f.write, lines)
+
+
+def dumpcsv(path, filename, rows, header, mode='w'):
+    if not os.path.exists(path):
+        os.makedirs(path)
+    if not path.endswith('/'):
+        path += '/'
+    with open(path+filename, mode) as f:
+        w = csv.writer(f)
+        if header:
+            w.writerow(header)
+        map(w.writerow, rows)
+
+
+def parsefilename(filepath):
+    filename = filepath if '/' not in filepath else filepath.split('/')[-1]
+    filename = filename if '.' not in filename else filename.split('.')[0]
+    return filename
