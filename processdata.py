@@ -105,8 +105,11 @@ def jointwofile(firstfile, withfile, header, resultpath):
     del second
     for i, each in enumerate(first):
         if each[0] in match:
-            each.append(match[each[0]])
-            first[i] = each
+            t = match[each[0]]
+        else:
+            t = '0'
+        each.append(t)
+        first[i] = each
     outfile = parsefilename(firstfile) + '-join-' + parsefilename(withfile) + '.csv'
     dumpcsv(resultpath, outfile, first, None)
 
