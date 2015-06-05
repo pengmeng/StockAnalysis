@@ -52,7 +52,7 @@ def dump(path, filename, lines, mode='w'):
         map(f.write, lines)
 
 
-def dumpcsv(path, filename, rows, header, mode='w'):
+def dumpcsv(path, filename, rows, header=None, mode='w'):
     if not os.path.exists(path):
         os.makedirs(path)
     if not path.endswith('/'):

@@ -1,46 +1,39 @@
 __author__ = 'mengpeng'
 import argparse
-from utils.tools import loadbyline
-from utils.tools import dump
+from utils.tools import *
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 
 
 def bypattern(titles, resultpath, outfile):
-    result = ['title,polarity,subjectivity,classification\n']
+    result = []
     for each in titles:
-        blob = TextBlob(each)
-        s = '{0},{1},{2},'.format(each, blob.sentiment.polarity, blob.sentiment.subjectivity)
-        if blob.sentiment.subjectivity >= 0.5:
-            if blob.sentiment.polarity > 0:
-                s += 'pos'
-            elif blob.sentiment.polarity < 0:
-                s += 'neg'
-            else:
-                s += 'neu'
+        blob = TextBlob(each[1])
+        temp = each + [blob.sentiment.polarity, blob.sentiment.subjectivity]
+        if blob.sentiment.polarity > 0:
+            temp.append('pos')
+        elif blob.sentiment.polarity < 0:
+            temp.append('neg')
         else:
-            s += 'neu'
-        s += '\n'
-        result.append(s)
-        dump(resultpath, outfile+'-pattern.csv', result)
+            temp.append('neu')
+        result.append(temp)
+    dumpcsv(resultpath,
+            outfile+'-pattern.csv',
+            result,
+            header=['date', 'title', 'polarity', 'subjectivity', 'classification'])
 
 
 def bybayes(titles, resultpath, outfile):
-    result = ['title,p_pos,p_neg,classification\n']
+    result = []
     for each in titles:
-        blob = TextBlob(each, analyzer=NaiveBayesAnalyzer())
-        s = '{0},{1},{2},{3}\n'.format(each,
-                                       blob.sentiment.p_pos,
-                                       blob.sentiment.p_neg,
-                                       blob.sentiment.classification)
-        result.append(s)
-    dump(resultpath, outfile+'-bayes.csv', result)
+        blob = TextBlob(each[1], analyzer=NaiveBayesAnalyzer())
+        result.append(each + [blob.sentiment.p_pos, blob.sentiment.p_neg, blob.sentiment.classification])
+    dumpcsv(resultpath, outfile+'-bayes.csv', result, header=['date', 'title', 'p_pos', 'p_neg', 'classification'])
 
 
-def main(filename, resultpath, classifier):
-    outfile = filename if '/' not in filename else filename.split('/')[-1]
-    outfile = outfile if '.' not in outfile else outfile.split('.')[0]
-    titles = loadbyline(filename)
+def main(filename, resultpath, output, classifier, header):
+    outfile = output if output else parsefilename(filename)
+    titles, _ = loadcsv(filename, header)
     if classifier == 'pattern':
         bypattern(titles, resultpath, outfile)
     elif classifier == 'bayes':
@@ -54,7 +47,10 @@ if __name__ == '__main__':
                            help="Title file that will be loaded")
     argparser.add_argument('-p', '--path', type=str, default=result_path,
                            help='Path to store the data (default: {0})'.format(result_path))
+    argparser.add_argument('-o', '--output', type=str,
+                           help='Output file name')
     argparser.add_argument('-c', '--classifier', type=str, default='pattern', choices=['pattern', 'bayes'],
-                           help='Path to store the data (default: pattern)')
+                           help='Classifier (default: pattern)')
+    argparser.add_argument('--header', help='Indicate that csv file has header line')
     args = argparser.parse_args()
-    main(args.titlefile, args.path, args.classifier)
+    main(args.titlefile, args.path, args.output, args.classifier, args.header)

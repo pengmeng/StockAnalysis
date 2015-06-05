@@ -80,18 +80,18 @@ def cleantitle(filename):
     print('Done.')
 
 
-def extracttitle(filename, resultpath, limit):
+def extracttitle(filename, resultpath, start, end, limit):
     words = loadbyline(filename)
-    outfile = filename if '/' not in filename else filename.split('/')[-1]
-    outfile = outfile if '.' not in outfile else outfile.split('.')[0]
+    outfile = parsefilename(filename)
     for word in words:
-        query = {'datenum': {'$gte': 20050101, '$lte': 20150430}, 'keyword': word}
-        articles = Article.find(Article, query, limit=limit)
+        query = {'datenum': {'$gte': start, '$lte': end}, 'keyword': word}
+        articles = Article.find(Article, query, limit=limit, sort=[('datenum', 1)])
         print('Found {0} results for {1}'.format(len(articles), word))
-        temp = []
+        result = []
         for each in iter(articles):
-            temp.append(each.title+'\n')
-        dump(resultpath, outfile, temp, 'a')
+            title = each.title.replace(',', '')
+            result.append([each.datenum, title])
+        dumpcsv(resultpath, outfile, result)
         del articles
     print('Done.')
 
@@ -111,16 +111,16 @@ def jointwofile(firstfile, withfile, header, resultpath):
         each.append(t)
         first[i] = each
     outfile = parsefilename(firstfile) + '-join-' + parsefilename(withfile) + '.csv'
-    dumpcsv(resultpath, outfile, first, None)
+    dumpcsv(resultpath, outfile, first)
 
 
-def main(option, keywordfile, resultpath, limit, withfile, header):
+def main(option, keywordfile, resultpath, limit, withfile, header, start, end):
     if option == 'count':
         countkeyword(keywordfile, resultpath)
     elif option == 'clean':
         cleantitle(keywordfile)
     elif option == 'extract':
-        extracttitle(keywordfile, resultpath, limit)
+        extracttitle(keywordfile, resultpath, start, end, limit)
     elif option == 'join':
         jointwofile(keywordfile, withfile, header, resultpath)
 
@@ -135,12 +135,18 @@ if __name__ == '__main__':
                            help="Input file to be processed")
     argparser.add_argument('-p', '--path', type=str, default=result_path,
                            help='Path to store the data (default: {0})'.format(result_path))
-    argparser.add_argument('-l', '--limit', type=int, default=10,
+    argparser.add_argument('-o', '--output', type=str,
+                           help='output file name')
+    argparser.add_argument('-l', '--limit', type=int, default=0,
                            help='Limit when query the database (default: 10)')
     argparser.add_argument('-w', '--withfile', type=str,
                            help='File to join the inputfile')
     argparser.add_argument('--header', help='Indicate that csv file has header line')
     argparser.add_argument('-s', '--shift', type=int, default=0,
                            help='Shift # of days among diffrent data')
+    argparser.add_argument('--start', type=int, default=20050101,
+                           help='start date (default: 20050101)')
+    argparser.add_argument('--end', type=int, default=20150430,
+                           help='end date (default: 20150430)')
     args = argparser.parse_args()
-    main(args.option, args.inputfile, args.path, args.limit, args.withfile, args.header)
+    main(args.option, args.inputfile, args.path, args.limit, args.withfile, args.header, args.start, args.end)
