@@ -1,6 +1,7 @@
 __author__ = 'mengpeng'
 import argparse
 import pymongo
+from collections import OrderedDict
 from utils.tools import *
 from mongojuice.document import Document
 
@@ -35,7 +36,7 @@ class Article(Document):
             return time.strftime("%m/%d/%y", time.localtime())
 
     def __str__(self):
-        return '_id: {0}\ntitle: {1}\ndate: {2}\ntag: {3}\nkeyword: {4}'\
+        return '_id: {0}\ntitle: {1}\ndate: {2}\ntag: {3}\nkeyword: {4}' \
             .format(self._id, self.title, self.date, self.tag, self.keyword)
 
 
@@ -114,7 +115,20 @@ def jointwofile(firstfile, withfile, header, resultpath):
     dumpcsv(resultpath, outfile, first)
 
 
-def main(option, keywordfile, resultpath, limit, withfile, header, start, end):
+def aggregate(inputfile, header, resultpath, outfile):
+    lines, _ = loadcsv(inputfile, header)
+    outfile = outfile if outfile else parsefilename(inputfile)
+    acc = OrderedDict()
+    for line in iter(lines):
+        if line[0] in acc:
+            acc[line[0]] += 1 if line[-1] == 'pos' else -1
+        else:
+            acc[line[0]] = 0
+    result = [[k, v] for k, v in acc.iteritems()]
+    dumpcsv(resultpath, outfile, result, ['date', 'count'])
+
+
+def main(option, keywordfile, resultpath, limit, withfile, header, start, end, output):
     if option == 'count':
         countkeyword(keywordfile, resultpath)
     elif option == 'clean':
@@ -123,13 +137,15 @@ def main(option, keywordfile, resultpath, limit, withfile, header, start, end):
         extracttitle(keywordfile, resultpath, start, end, limit)
     elif option == 'join':
         jointwofile(keywordfile, withfile, header, resultpath)
+    elif option == 'aggregate':
+        aggregate(keywordfile, header, resultpath, output)
 
 
 if __name__ == '__main__':
-    result_path = './data/keyword/'
+    result_path = './data/'
     argparser = argparse.ArgumentParser()
     argparser.add_argument('option', type=str,
-                           choices=['count', 'clean', 'extract', 'join'],
+                           choices=['count', 'clean', 'extract', 'join', 'aggregate'],
                            help='Option to perform')
     argparser.add_argument('inputfile', type=str,
                            help="Input file to be processed")
@@ -141,7 +157,8 @@ if __name__ == '__main__':
                            help='Limit when query the database (default: 10)')
     argparser.add_argument('-w', '--withfile', type=str,
                            help='File to join the inputfile')
-    argparser.add_argument('--header', help='Indicate that csv file has header line')
+    argparser.add_argument('--header', action="store_true",
+                           help='Indicate that csv file has header line')
     argparser.add_argument('-s', '--shift', type=int, default=0,
                            help='Shift # of days among diffrent data')
     argparser.add_argument('--start', type=int, default=20050101,
@@ -149,4 +166,5 @@ if __name__ == '__main__':
     argparser.add_argument('--end', type=int, default=20150430,
                            help='end date (default: 20150430)')
     args = argparser.parse_args()
-    main(args.option, args.inputfile, args.path, args.limit, args.withfile, args.header, args.start, args.end)
+    main(args.option, args.inputfile, args.path, args.limit, args.withfile, args.header, args.start, args.end,
+         args.output)
